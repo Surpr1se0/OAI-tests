@@ -1,0 +1,398 @@
+[UTIL]: Setting the config -c file to /usr/local/etc/flexric/flexric.conf
+[UTIL]: Setting path -p for the shared libraries to /usr/local/lib/flexric/
+[xAapp]: Initializing ... 
+[xApp]: nearRT-RIC IP Address = 192.168.70.150, PORT = 36422
+[E2 AGENT]: Opening plugin from path = /usr/local/lib/flexric/libkpm_sm.so 
+[E2 AGENT]: Opening plugin from path = /usr/local/lib/flexric/libmac_sm.so 
+[E2 AGENT]: Opening plugin from path = /usr/local/lib/flexric/libpdcp_sm.so 
+[E2 AGENT]: Opening plugin from path = /usr/local/lib/flexric/libgtp_sm.so 
+[E2 AGENT]: Opening plugin from path = /usr/local/lib/flexric/librc_sm.so 
+[E2 AGENT]: Opening plugin from path = /usr/local/lib/flexric/libtc_sm.so 
+[E2 AGENT]: Opening plugin from path = /usr/local/lib/flexric/librlc_sm.so 
+[E2 AGENT]: Opening plugin from path = /usr/local/lib/flexric/libslice_sm.so 
+[NEAR-RIC]: Loading SM ID = 2 with def = ORAN-E2SM-KPM 
+[NEAR-RIC]: Loading SM ID = 142 with def = MAC_STATS_V0 
+[NEAR-RIC]: Loading SM ID = 144 with def = PDCP_STATS_V0 
+[NEAR-RIC]: Loading SM ID = 148 with def = GTP_STATS_V0 
+[NEAR-RIC]: Loading SM ID = 3 with def = ORAN-E2SM-RC 
+[NEAR-RIC]: Loading SM ID = 146 with def = TC_STATS_V0 
+[NEAR-RIC]: Loading SM ID = 143 with def = RLC_STATS_V0 
+[NEAR-RIC]: Loading SM ID = 145 with def = SLICE_STATS_V0 
+[xApp]: DB filename = /tmp/flexric/xapp_db 
+ [xApp]: E42 SETUP-REQUEST tx
+[xApp]: E42 SETUP-RESPONSE rx 
+[xApp]: xApp ID = 11 
+[xApp]: Registered E2 Nodes = 7 
+Connected E2 nodes = 7
+[xAPP] Registered node 0 ran func id = 2 
+ [xAPP] Registered node 0 ran func id = 3 
+ [xAPP] Registered node 0 ran func id = 142 
+ [xAPP] Registered node 0 ran func id = 143 
+ [xAPP] Registered node 0 ran func id = 144 
+ [xAPP] Registered node 0 ran func id = 145 
+ [xAPP] Registered node 0 ran func id = 146 
+ [xAPP] Registered node 0 ran func id = 148 
+ [xApp]: E42 RIC SUBSCRIPTION REQUEST tx RAN_FUNC_ID 144 RIC_REQ_ID 1 
+[xApp]: SUBSCRIPTION RESPONSE rx
+[xApp]: Successfully subscribed to RAN_FUNC_ID 144 
+[xAPP] Registered node 1 ran func id = 2 
+ [xAPP] Registered node 1 ran func id = 3 
+ [xAPP] Registered node 1 ran func id = 142 
+ [xAPP] Registered node 1 ran func id = 143 
+ [xAPP] Registered node 1 ran func id = 144 
+ [xAPP] Registered node 1 ran func id = 145 
+ [xAPP] Registered node 1 ran func id = 146 
+ [xAPP] Registered node 1 ran func id = 148 
+ [xApp]: E42 RIC SUBSCRIPTION REQUEST tx RAN_FUNC_ID 144 RIC_REQ_ID 2 
+[xApp]: SUBSCRIPTION RESPONSE rx
+[xApp]: Successfully subscribed to RAN_FUNC_ID 144 
+[xAPP] Registered node 2 ran func id = 2 
+ [xAPP] Registered node 2 ran func id = 3 
+ [xAPP] Registered node 2 ran func id = 142 
+ [xAPP] Registered node 2 ran func id = 143 
+ [xAPP] Registered node 2 ran func id = 144 
+ [xAPP] Registered node 2 ran func id = 145 
+ [xAPP] Registered node 2 ran func id = 146 
+ [xAPP] Registered node 2 ran func id = 148 
+ [xApp]: E42 RIC SUBSCRIPTION REQUEST tx RAN_FUNC_ID 144 RIC_REQ_ID 3 
+[xApp]: SUBSCRIPTION RESPONSE rx
+[xApp]: Successfully subscribed to RAN_FUNC_ID 144 
+[xAPP] Registered node 3 ran func id = 2 
+ [xAPP] Registered node 3 ran func id = 3 
+ [xAPP] Registered node 3 ran func id = 142 
+ [xAPP] Registered node 3 ran func id = 143 
+ [xAPP] Registered node 3 ran func id = 144 
+ [xAPP] Registered node 3 ran func id = 145 
+ [xAPP] Registered node 3 ran func id = 146 
+ [xAPP] Registered node 3 ran func id = 148 
+ [xApp]: E42 RIC SUBSCRIPTION REQUEST tx RAN_FUNC_ID 144 RIC_REQ_ID 4 
+[xApp]: SUBSCRIPTION RESPONSE rx
+[xApp]: Successfully subscribed to RAN_FUNC_ID 144 
+[xAPP] Registered node 4 ran func id = 2 
+ [xAPP] Registered node 4 ran func id = 3 
+ [xAPP] Registered node 4 ran func id = 142 
+ [xAPP] Registered node 4 ran func id = 143 
+ [xAPP] Registered node 4 ran func id = 144 
+ [xAPP] Registered node 4 ran func id = 145 
+ [xAPP] Registered node 4 ran func id = 146 
+ [xAPP] Registered node 4 ran func id = 148 
+ [xApp]: E42 RIC SUBSCRIPTION REQUEST tx RAN_FUNC_ID 144 RIC_REQ_ID 5 
+[xApp]: SUBSCRIPTION RESPONSE rx
+[xApp]: Successfully subscribed to RAN_FUNC_ID 144 
+[xAPP] Registered node 5 ran func id = 2 
+ [xAPP] Registered node 5 ran func id = 3 
+ [xAPP] Registered node 5 ran func id = 142 
+ [xAPP] Registered node 5 ran func id = 143 
+ [xAPP] Registered node 5 ran func id = 144 
+ [xAPP] Registered node 5 ran func id = 145 
+ [xAPP] Registered node 5 ran func id = 146 
+ [xAPP] Registered node 5 ran func id = 148 
+ [xApp]: E42 RIC SUBSCRIPTION REQUEST tx RAN_FUNC_ID 144 RIC_REQ_ID 6 
+[xApp]: SUBSCRIPTION RESPONSE rx
+[xApp]: Successfully subscribed to RAN_FUNC_ID 144 
+[xAPP] Registered node 6 ran func id = 2 
+ [xAPP] Registered node 6 ran func id = 3 
+ [xAPP] Registered node 6 ran func id = 142 
+ [xAPP] Registered node 6 ran func id = 143 
+ [xAPP] Registered node 6 ran func id = 144 
+ [xAPP] Registered node 6 ran func id = 145 
+ [xAPP] Registered node 6 ran func id = 146 
+ [xAPP] Registered node 6 ran func id = 148 
+ [xApp]: E42 RIC SUBSCRIPTION REQUEST tx RAN_FUNC_ID 144 RIC_REQ_ID 7 
+[xApp]: SUBSCRIPTION RESPONSE rx
+[xApp]: Successfully subscribed to RAN_FUNC_ID 144 
+[UE 7 | RBs:  1 ] Total Throughput = 0.23854 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.35781 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.23854 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.35603 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.23735 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.23735 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.23947 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.23947 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.35920 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.23534 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.35301 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.23534 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.44928 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.22464 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.22464 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.11905 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.23810 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.23810 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.32507 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.32507 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.32507 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.32804 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.32804 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.21870 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.22046 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.22046 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.22046 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.23431 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.35146 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.35146 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.33111 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.22074 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.22074 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.32027 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.21351 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.42702 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.22209 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.33314 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.22209 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.32668 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.32668 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.32668 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.21637 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.21637 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.21637 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.32683 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.43577 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.32683 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.32874 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.21916 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.21916 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.32493 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.21662 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.43325 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.21960 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.32941 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.21960 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.35461 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.35461 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.35461 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.33044 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.33044 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.33044 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.32800 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.32800 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.21866 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.11968 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.11968 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.23936 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.32362 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.32362 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.21575 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.21810 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.32715 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.32715 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.33081 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.22054 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.22054 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.23668 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.23668 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.23668 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.21993 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.32990 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.32990 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.35585 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.23723 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.23723 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.21959 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.21959 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.21959 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.11891 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.11891 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.35673 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.43489 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.43489 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.21744 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.32122 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.21415 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.32122 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.21983 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.21983 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.32975 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.22063 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.44127 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.33095 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.35531 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.23687 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.11844 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.22119 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.22119 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.44239 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.21469 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.32204 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.21469 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.43539 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.32655 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.21770 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.23928 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.23928 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.35892 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.44102 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.33076 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.33076 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.22024 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.22024 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.22024 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.23894 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.23894 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.35841 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.35926 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.47902 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.35926 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.21645 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.21645 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.21645 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.21754 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.32631 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.32631 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.21699 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.21699 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.21699 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.32820 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.21880 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.21880 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.22001 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.22001 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.33002 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.43573 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.43573 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.21787 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.21625 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.21625 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.21625 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.21956 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.21956 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.32934 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.23726 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.23726 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.23726 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.35921 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.35921 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.23947 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.21822 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.21822 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.21822 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.32880 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.32880 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.43840 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.32917 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.21944 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.21944 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.21678 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.21678 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.21678 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.21820 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.43640 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.43640 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.35596 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.11865 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.11865 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.21744 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.32615 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.32615 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.21965 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.32948 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.32948 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.32767 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.21844 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.21844 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.21335 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.21335 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.21335 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.22006 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.22006 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.33009 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.44219 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.33165 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.22110 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.23634 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.35451 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.23634 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.22067 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.22067 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.33101 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.11855 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.23711 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.23711 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.32935 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.21957 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.21957 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.21371 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.21371 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.21371 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.22125 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.33187 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.33187 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.23749 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.23749 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.23749 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.35846 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.23898 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.23898 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.21911 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.21911 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.32867 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.22033 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.33049 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.22033 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.47606 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.35705 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.23803 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.21760 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.21760 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.32640 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.47273 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.35455 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.35455 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.21927 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.32891 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.32891 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.33075 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.44100 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.33075 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.32680 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.21787 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.21787 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.23953 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.23953 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.23953 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.11972 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.47887 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.35915 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.76274 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.32689 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.10896 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.23870 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.35804 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.23870 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.23835 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.11917 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.23835 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.35936 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.35936 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.35936 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.22021 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.44042 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.22021 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.35493 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.35493 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.35493 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.55114 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.55114 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.08641 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.35871 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.35871 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.21815 Mbps
+[UE 7 | RBs:  1 ] Total Throughput = 0.35609 Mbps
+[UE 11 | RBs:  1 ] Total Throughput = 0.35609 Mbps
+[UE 12 | RBs:  1 ] Total Throughput = 0.35835 Mbps
+[xApp]: E42 RIC_SUBSCRIPTION_DELETE_REQUEST tx RAN_FUNC_ID 144 RIC_REQ_ID 1 
+[xApp]: E42 SUBSCRIPTION DELETE RESPONSE rx
+[xApp]: E42 RIC_SUBSCRIPTION_DELETE_REQUEST tx RAN_FUNC_ID 144 RIC_REQ_ID 2 
+[xApp]: E42 SUBSCRIPTION DELETE RESPONSE rx
+[xApp]: E42 RIC_SUBSCRIPTION_DELETE_REQUEST tx RAN_FUNC_ID 144 RIC_REQ_ID 3 
+[xApp]: E42 SUBSCRIPTION DELETE RESPONSE rx
+[xApp]: E42 RIC_SUBSCRIPTION_DELETE_REQUEST tx RAN_FUNC_ID 144 RIC_REQ_ID 4 
+[xApp]: E42 SUBSCRIPTION DELETE RESPONSE rx
+[xApp]: E42 RIC_SUBSCRIPTION_DELETE_REQUEST tx RAN_FUNC_ID 144 RIC_REQ_ID 5 
+[xApp]: E42 SUBSCRIPTION DELETE RESPONSE rx
+[xApp]: E42 RIC_SUBSCRIPTION_DELETE_REQUEST tx RAN_FUNC_ID 144 RIC_REQ_ID 6 
+[xApp]: E42 SUBSCRIPTION DELETE RESPONSE rx
+[xApp]: E42 RIC_SUBSCRIPTION_DELETE_REQUEST tx RAN_FUNC_ID 144 RIC_REQ_ID 7 
+[xApp]: E42 SUBSCRIPTION DELETE RESPONSE rx
+[xApp]: Sucessfully stopped 
+Test xApp run SUCCESSFULLY
