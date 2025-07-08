@@ -12,7 +12,7 @@ reps = []
 for idx, f in enumerate(files):
     df = pd.read_csv(f)
 
-    # Cria um índice de tempo com base na posição da linha
+    # create a time index based on the row position
     df['Time'] = df.groupby('UE_ID').cumcount()
     df['Rep'] = idx + 1
     reps.append(df)
