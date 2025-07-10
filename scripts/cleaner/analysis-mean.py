@@ -2,45 +2,42 @@ import pandas as pd
 import glob
 import os
 
-base_dir = os.path.join("clean-files", "UL", "throughput", "4th-attempt", "cell-based", "10")
-output_dir = os.path.join("clean-files", "UL", "throughput", "4th-attempt", "cell-based", "10")
+def analysis_per_mean(scenario, rep):
+  base_input_dir = os.path.join("clean-files", scenario, rep)
+  base_output_dir = os.path.join("clean-files", "aggr")
 
-# Read all csv files in the directory
-files = sorted(glob.glob(base_dir + "/*.csv"))
-reps = []
+  # Read all csv files in the directory
+  files = sorted(glob.glob(base_input_dir + "/*.csv"))
+  reps = []
 
-for idx, f in enumerate(files):
-    df = pd.read_csv(f)
+  # Concatenate all dataframes into one
+  for idx, f in enumerate(files):
+      df = pd.read_csv(f)
+      reps.append(df)
+  df_total = pd.concat(reps)
 
-    # create a time index based on the row position
-    df['Time'] = df.groupby('UE_ID').cumcount()
-    df['Rep'] = idx + 1
-    reps.append(df)
+  bin_size = 100 # ms
+  df_total['Time_ms'] = (df_total['Time_ms'] / bin_size).round() * bin_size
+  df_total['Time_ms'] = df_total['Time_ms'].astype(int) # Convert to int
 
-# Concatenate all dataframes into one
-df_total = pd.concat(reps)
+  # Calculate avg and std deviation per UE and Time
+  agg = df_total.groupby(['Time_ms', 'UE_ID']).agg(
+      Mean_Throughput=('Throughput_Mbps', 'mean'),
+      Std_Throughput=('Throughput_Mbps', 'std')
+  ).reset_index()
 
-# Calculate avg and std deviation per UE and Time
-agg = df_total.groupby(['Time', 'UE_ID']).agg(
-    Mean_Throughput=('Throughput_Mbps', 'mean'),
-    Std_Throughput=('Throughput_Mbps', 'std')
-).reset_index()
+  # Reorganize the columns
+  agg = agg[['Time_ms', 'UE_ID', 'Mean_Throughput', 'Std_Throughput']]
 
-# Export csv consolidated data
-agg.to_csv(base_dir + "/cb-10-aggregated.csv", index=False)
-print(f"File stored in {base_dir}\n")
+  # save
+  agg.to_csv(os.path.join(base_output_dir, "agg-" + str(scenario) + "-" + str(rep) + ".csv"), index=False)
+  print(f"New file stored in {base_output_dir} for {scenario} \n")
 
-# Read the aggregated CSV file
-df = pd.read_csv(base_dir + "/cb-10-aggregated.csv")
 
-# Substitute time with real time in milliseconds
-df['Real_time_ms'] = df['Time'] * 10
-df = df.drop(columns=['Time'])
-df = df.rename(columns={'Real_time_ms': 'Time_ms'})
+analysis_per_mean("cb", "1")
+#analysis_per_mean("cb", "5")
+#analysis_per_mean("cb", "10")
 
-# Reorganize the columns
-df = df[['Time_ms', 'UE_ID', 'Mean_Throughput', 'Std_Throughput']]
-
-# store new csv
-df.to_csv(base_dir + "/cb-10-aggregated.csv", index=False)
-print(f"New updated file stored in {base_dir}\n")
+analysis_per_mean("cf", "1")
+#analysis_per_mean("cf", "5")
+#analysis_per_mean("cf", "10")  

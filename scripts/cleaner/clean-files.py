@@ -3,7 +3,7 @@ import os
 
 # General variables
 scenarios = ["cf", "cb"] # cell-free and cell-based
-reps = ["1", "5", "10"]  # can be 1, 5 or 10
+num_ues = ["1", "5", "10"]  # can be 1, 5 or 10
 base_dir_input = os.path.join("dirty-files")
 base_dir_output = os.path.join("clean-files")
 
@@ -45,12 +45,12 @@ def extract_csv(input, output):
 
 
 for scenario in scenarios:
-    for rep in reps:
+    for num_ue in num_ues:
         for i in range (1,30):
           filename = f"rep_{str(i).zfill(3)}" # make sure to have leading zeros
 
-          input_file = os.path.join(base_dir_input, scenario,rep, f"{filename}.log")
-          output_file = os.path.join(base_dir_output, scenario,rep, f"{filename}.csv")
+          input_file = os.path.join(base_dir_input, scenario,num_ue, f"{filename}.log")
+          output_file = os.path.join(base_dir_output, scenario,num_ue, f"{filename}.csv")
           extract_csv(input_file, output_file)
 
 print("All files processed successfully.")
