@@ -35,9 +35,9 @@ def analysis_per_mean(scenario, rep):
 
 
 analysis_per_mean("cb", "1")
-#analysis_per_mean("cb", "5")
-#analysis_per_mean("cb", "10")
+analysis_per_mean("cb", "5")
+analysis_per_mean("cb", "10")
 
 analysis_per_mean("cf", "1")
-#analysis_per_mean("cf", "5")
-#analysis_per_mean("cf", "10")  
+analysis_per_mean("cf", "5")
+analysis_per_mean("cf", "10")  
