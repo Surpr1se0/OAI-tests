@@ -1,0 +1,174 @@
+[UTIL]: Setting the config -c file to /usr/local/etc/flexric/flexric.conf
+[UTIL]: Setting path -p for the shared libraries to /usr/local/lib/flexric/
+[xAapp]: Initializing ... 
+[xApp]: nearRT-RIC IP Address = 192.168.70.150, PORT = 36422
+[E2 AGENT]: Opening plugin from path = /usr/local/lib/flexric/libkpm_sm.so 
+[E2 AGENT]: Opening plugin from path = /usr/local/lib/flexric/libmac_sm.so 
+[E2 AGENT]: Opening plugin from path = /usr/local/lib/flexric/libpdcp_sm.so 
+[E2 AGENT]: Opening plugin from path = /usr/local/lib/flexric/libgtp_sm.so 
+[E2 AGENT]: Opening plugin from path = /usr/local/lib/flexric/librc_sm.so 
+[E2 AGENT]: Opening plugin from path = /usr/local/lib/flexric/libtc_sm.so 
+[E2 AGENT]: Opening plugin from path = /usr/local/lib/flexric/librlc_sm.so 
+[E2 AGENT]: Opening plugin from path = /usr/local/lib/flexric/libslice_sm.so 
+[NEAR-RIC]: Loading SM ID = 2 with def = ORAN-E2SM-KPM 
+[NEAR-RIC]: Loading SM ID = 142 with def = MAC_STATS_V0 
+[NEAR-RIC]: Loading SM ID = 144 with def = PDCP_STATS_V0 
+[NEAR-RIC]: Loading SM ID = 148 with def = GTP_STATS_V0 
+[NEAR-RIC]: Loading SM ID = 3 with def = ORAN-E2SM-RC 
+[NEAR-RIC]: Loading SM ID = 146 with def = TC_STATS_V0 
+[NEAR-RIC]: Loading SM ID = 143 with def = RLC_STATS_V0 
+[NEAR-RIC]: Loading SM ID = 145 with def = SLICE_STATS_V0 
+[xApp]: DB filename = /tmp/flexric/xapp_db 
+ [xApp]: E42 SETUP-REQUEST tx
+[xApp]: E42 SETUP-RESPONSE rx 
+[xApp]: xApp ID = 7 
+[xApp]: Registered E2 Nodes = 3 
+Connected E2 nodes = 3
+[xAPP] Registered node 0 ran func id = 2 
+ [xAPP] Registered node 0 ran func id = 3 
+ [xAPP] Registered node 0 ran func id = 142 
+ [xAPP] Registered node 0 ran func id = 143 
+ [xAPP] Registered node 0 ran func id = 144 
+ [xAPP] Registered node 0 ran func id = 145 
+ [xAPP] Registered node 0 ran func id = 146 
+ [xAPP] Registered node 0 ran func id = 148 
+ [xApp]: E42 RIC SUBSCRIPTION REQUEST tx RAN_FUNC_ID 144 RIC_REQ_ID 1 
+[xApp]: SUBSCRIPTION RESPONSE rx
+[xApp]: Successfully subscribed to RAN_FUNC_ID 144 
+[xAPP] Registered node 1 ran func id = 2 
+ [xAPP] Registered node 1 ran func id = 3 
+ [xAPP] Registered node 1 ran func id = 142 
+ [xAPP] Registered node 1 ran func id = 143 
+ [xAPP] Registered node 1 ran func id = 144 
+ [xAPP] Registered node 1 ran func id = 145 
+ [xAPP] Registered node 1 ran func id = 146 
+ [xAPP] Registered node 1 ran func id = 148 
+ [xApp]: E42 RIC SUBSCRIPTION REQUEST tx RAN_FUNC_ID 144 RIC_REQ_ID 2 
+[xApp]: SUBSCRIPTION RESPONSE rx
+[xApp]: Successfully subscribed to RAN_FUNC_ID 144 
+[xAPP] Registered node 2 ran func id = 2 
+ [xAPP] Registered node 2 ran func id = 3 
+ [xAPP] Registered node 2 ran func id = 142 
+ [xAPP] Registered node 2 ran func id = 143 
+ [xAPP] Registered node 2 ran func id = 144 
+ [xAPP] Registered node 2 ran func id = 145 
+ [xAPP] Registered node 2 ran func id = 146 
+ [xAPP] Registered node 2 ran func id = 148 
+ [xApp]: E42 RIC SUBSCRIPTION REQUEST tx RAN_FUNC_ID 144 RIC_REQ_ID 3 
+[xApp]: SUBSCRIPTION RESPONSE rx
+[xApp]: Successfully subscribed to RAN_FUNC_ID 144 
+174[UE 1 | RB 1] Throughput = 1.00346 Mbps
+304[UE 1 | RB 1] Throughput = 1.28805 Mbps
+424[UE 1 | RB 1] Throughput = 0.99759 Mbps
+524[UE 1 | RB 1] Throughput = 1.07529 Mbps
+633[UE 1 | RB 1] Throughput = 1.21280 Mbps
+733[UE 1 | RB 1] Throughput = 1.07782 Mbps
+1840[UE 1 | RB 1] Throughput = 0.05415 Mbps
+2928[UE 1 | RB 1] Throughput = 1.09029 Mbps
+3034[UE 1 | RB 1] Throughput = 10.96494 Mbps
+3165[UE 1 | RB 1] Throughput = 0.64304 Mbps
+4272[UE 1 | RB 1] Throughput = 0.17309 Mbps
+4373[UE 1 | RB 1] Throughput = 12.11849 Mbps
+4474[UE 1 | RB 1] Throughput = 0.83522 Mbps
+4584[UE 1 | RB 1] Throughput = 0.64877 Mbps
+4693[UE 1 | RB 1] Throughput = 1.65812 Mbps
+9906[UE 1 | RB 1] Throughput = 0.01609 Mbps
+10054[UE 1 | RB 1] Throughput = 37.79957 Mbps
+13233[UE 1 | RB 1] Throughput = 0.04146 Mbps
+13334[UE 1 | RB 1] Throughput = 33.72854 Mbps
+13465[UE 1 | RB 1] Throughput = 1.09684 Mbps
+13574[UE 1 | RB 1] Throughput = 1.21003 Mbps
+14641[UE 1 | RB 1] Throughput = 0.05613 Mbps
+14744[UE 1 | RB 1] Throughput = 11.81081 Mbps
+14854[UE 1 | RB 1] Throughput = 1.08758 Mbps
+14955[UE 1 | RB 1] Throughput = 0.59386 Mbps
+15064[UE 1 | RB 1] Throughput = 1.32104 Mbps
+15194[UE 1 | RB 1] Throughput = 0.92111 Mbps
+15314[UE 1 | RB 1] Throughput = 1.09758 Mbps
+15424[UE 1 | RB 1] Throughput = 1.20063 Mbps
+20657[UE 1 | RB 1] Throughput = 0.02061 Mbps
+20764[UE 1 | RB 1] Throughput = 52.12429 Mbps
+20864[UE 1 | RB 1] Throughput = 1.07728 Mbps
+20994[UE 1 | RB 1] Throughput = 0.92112 Mbps
+21104[UE 1 | RB 1] Throughput = 1.63564 Mbps
+21204[UE 1 | RB 1] Throughput = 0.59708 Mbps
+21314[UE 1 | RB 1] Throughput = 0.98327 Mbps
+21424[UE 1 | RB 1] Throughput = 1.20351 Mbps
+21524[UE 1 | RB 1] Throughput = 1.07169 Mbps
+21655[UE 1 | RB 1] Throughput = 0.64323 Mbps
+21775[UE 1 | RB 1] Throughput = 1.29735 Mbps
+21884[UE 1 | RB 1] Throughput = 1.53464 Mbps
+22004[UE 1 | RB 1] Throughput = 0.79677 Mbps
+22114[UE 1 | RB 1] Throughput = 1.20596 Mbps
+22214[UE 1 | RB 1] Throughput = 1.43640 Mbps
+22324[UE 1 | RB 1] Throughput = 0.65449 Mbps
+22424[UE 1 | RB 1] Throughput = 1.19288 Mbps
+22534[UE 1 | RB 1] Throughput = 0.65249 Mbps
+22664[UE 1 | RB 1] Throughput = 1.38358 Mbps
+22774[UE 1 | RB 1] Throughput = 1.20374 Mbps
+22874[UE 1 | RB 1] Throughput = 0.95441 Mbps
+23014[UE 1 | RB 1] Throughput = 1.02662 Mbps
+36466[UE 1 | RB 1] Throughput = 0.00178 Mbps
+36575[UE 1 | RB 1] Throughput = 133.13227 Mbps
+36685[UE 1 | RB 1] Throughput = 1.30952 Mbps
+37746[UE 1 | RB 1] Throughput = 0.00000 Mbps
+37876[UE 1 | RB 1] Throughput = 9.57240 Mbps
+38026[UE 1 | RB 1] Throughput = 1.03954 Mbps
+38186[UE 1 | RB 1] Throughput = 0.82333 Mbps
+53427[UE 1 | RB 1] Throughput = 0.00236 Mbps
+56627[UE 1 | RB 1] Throughput = 5.13073 Mbps
+56737[UE 1 | RB 1] Throughput = 30.94776 Mbps
+61940[UE 1 | RB 1] Throughput = 0.01612 Mbps
+62046[UE 1 | RB 1] Throughput = 52.65052 Mbps
+63155[UE 1 | RB 1] Throughput = 0.10807 Mbps
+64308[UE 1 | RB 1] Throughput = 0.99828 Mbps
+64408[UE 1 | RB 1] Throughput = 12.32663 Mbps
+64516[UE 1 | RB 1] Throughput = 1.21443 Mbps
+64638[UE 1 | RB 1] Throughput = 0.59276 Mbps
+65779[UE 1 | RB 1] Throughput = 0.12597 Mbps
+65898[UE 1 | RB 1] Throughput = 10.50024 Mbps
+69044[UE 1 | RB 1] Throughput = 0.02285 Mbps
+70132[UE 1 | RB 1] Throughput = 3.12712 Mbps
+70237[UE 1 | RB 1] Throughput = 11.23117 Mbps
+70358[UE 1 | RB 1] Throughput = 0.69412 Mbps
+70467[UE 1 | RB 1] Throughput = 1.31508 Mbps
+71541[UE 1 | RB 1] Throughput = 0.05583 Mbps
+71647[UE 1 | RB 1] Throughput = 11.49598 Mbps
+72692[UE 1 | RB 1] Throughput = 0.03441 Mbps
+72797[UE 1 | RB 1] Throughput = 11.22926 Mbps
+73844[UE 1 | RB 1] Throughput = 0.04579 Mbps
+73947[UE 1 | RB 1] Throughput = 11.50319 Mbps
+74048[UE 1 | RB 1] Throughput = 0.71772 Mbps
+77236[UE 1 | RB 1] Throughput = 0.04510 Mbps
+78260[UE 1 | RB 1] Throughput = 3.26537 Mbps
+78368[UE 1 | RB 1] Throughput = 10.23047 Mbps
+81525[UE 1 | RB 1] Throughput = 0.05315 Mbps
+81628[UE 1 | RB 1] Throughput = 33.09982 Mbps
+81728[UE 1 | RB 1] Throughput = 0.59810 Mbps
+81837[UE 1 | RB 1] Throughput = 1.20262 Mbps
+81938[UE 1 | RB 1] Throughput = 1.31510 Mbps
+82069[UE 1 | RB 1] Throughput = 0.82303 Mbps
+82178[UE 1 | RB 1] Throughput = 1.09439 Mbps
+83253[UE 1 | RB 1] Throughput = 0.06691 Mbps
+83368[UE 1 | RB 1] Throughput = 10.16288 Mbps
+83499[UE 1 | RB 1] Throughput = 0.82807 Mbps
+84597[UE 1 | RB 1] Throughput = 0.17460 Mbps
+84718[UE 1 | RB 1] Throughput = 9.56023 Mbps
+84828[UE 1 | RB 1] Throughput = 1.09384 Mbps
+84978[UE 1 | RB 1] Throughput = 0.87619 Mbps
+85088[UE 1 | RB 1] Throughput = 1.53595 Mbps
+88245[UE 1 | RB 1] Throughput = 0.03036 Mbps
+88348[UE 1 | RB 1] Throughput = 33.11208 Mbps
+88489[UE 1 | RB 1] Throughput = 0.67775 Mbps
+88598[UE 1 | RB 1] Throughput = 1.43227 Mbps
+88698[UE 1 | RB 1] Throughput = 0.95561 Mbps
+89846[UE 1 | RB 1] Throughput = 0.11484 Mbps
+89949[UE 1 | RB 1] Throughput = 11.67337 Mbps
+[xApp]: E42 RIC_SUBSCRIPTION_DELETE_REQUEST tx RAN_FUNC_ID 144 RIC_REQ_ID 1 
+[xApp]: E42 SUBSCRIPTION DELETE RESPONSE rx
+[xApp]: E42 RIC_SUBSCRIPTION_DELETE_REQUEST tx RAN_FUNC_ID 144 RIC_REQ_ID 2 
+[xApp]: E42 SUBSCRIPTION DELETE RESPONSE rx
+[xApp]: E42 RIC_SUBSCRIPTION_DELETE_REQUEST tx RAN_FUNC_ID 144 RIC_REQ_ID 3 
+[xApp]: E42 SUBSCRIPTION DELETE RESPONSE rx
+[xApp]: Sucessfully stopped 
+Test xApp run SUCCESSFULLY
