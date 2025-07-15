@@ -3,8 +3,8 @@ import glob
 import os
 
 def analysis_per_mean(scenario, rep):
-  base_input_dir = os.path.join("clean-files", scenario, rep)
-  base_output_dir = os.path.join("clean-files", "aggr")
+  base_input_dir = os.path.join("clean-files-ul", scenario, rep)
+  base_output_dir = os.path.join("clean-files-ul", "aggr")
 
   # Read all csv files in the directory
   files = sorted(glob.glob(base_input_dir + "/*.csv"))

@@ -10,8 +10,8 @@ import re
 cenarios = ["cb", "cf"]
 num_ues = ["1", "5", "10"]
 
-base_input_dir = os.path.join("clean-files")
-base_output_dir = os.path.join("clean-files", "aggr")
+base_input_dir = os.path.join("clean-files-ul")
+base_output_dir = os.path.join("clean-files-ul", "aggr")
 
 df_total = pd.DataFrame()
 

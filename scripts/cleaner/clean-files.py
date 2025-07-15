@@ -4,8 +4,8 @@ import os
 # General variables
 scenarios = ["cf", "cb"] # cell-free and cell-based
 num_ues = ["1", "5", "10"]  # can be 1, 5 or 10
-base_dir_input = os.path.join("dirty-files")
-base_dir_output = os.path.join("clean-files")
+base_dir_input = os.path.join("dirty-files-ul")
+base_dir_output = os.path.join("clean-files-ul")
 
 # Function to extract and clean the CSV data
 def extract_csv(input, output):
