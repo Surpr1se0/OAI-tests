@@ -1,0 +1,683 @@
+d7a7b5dde049   rfsim5g-oai-du2         0.04%     1.04GiB / 23.44GiB    4.44%     45.3GB / 33.6GB   0B / 602kB      26
+116606adf744   rfsim5g-oai-cuup2       0.00%     6.242MiB / 23.44GiB   0.03%     13.3MB / 13.4MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         161.47%   1.084GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.4MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        0.38%     60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        0.44%     8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         0.04%     1.04GiB / 23.44GiB    4.44%     45.3GB / 33.6GB   0B / 602kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       0.00%     6.242MiB / 23.44GiB   0.03%     13.3MB / 13.4MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         161.47%   1.084GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.4MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        0.38%     60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        0.44%     8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         0.04%     1.04GiB / 23.44GiB    4.44%     45.3GB / 33.6GB   0B / 602kB      26
+116606adf744   rfsim5g-oai-cuup2       0.00%     6.242MiB / 23.44GiB   0.03%     13.3MB / 13.4MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         161.47%   1.084GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.4MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        0.38%     60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        0.44%     8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         0.04%     1.04GiB / 23.44GiB    4.44%     45.3GB / 33.6GB   0B / 602kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       0.00%     6.242MiB / 23.44GiB   0.03%     13.3MB / 13.4MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         161.47%   1.084GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.4MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        0.38%     60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        0.44%     8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         163.26%   1.041GiB / 23.44GiB   4.44%     45.5GB / 33.7GB   0B / 602kB      26
+116606adf744   rfsim5g-oai-cuup2       17.84%    6.262MiB / 23.44GiB   0.03%     13.7MB / 13.8MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         162.56%   1.085GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.4MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        15.26%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        18.11%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         163.26%   1.041GiB / 23.44GiB   4.44%     45.5GB / 33.7GB   0B / 602kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       17.84%    6.262MiB / 23.44GiB   0.03%     13.7MB / 13.8MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         162.56%   1.085GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.4MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        15.26%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        18.11%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         163.26%   1.041GiB / 23.44GiB   4.44%     45.5GB / 33.7GB   0B / 602kB      26
+116606adf744   rfsim5g-oai-cuup2       17.84%    6.262MiB / 23.44GiB   0.03%     13.7MB / 13.8MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         162.56%   1.085GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.4MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        15.26%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        18.11%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         163.26%   1.041GiB / 23.44GiB   4.44%     45.5GB / 33.7GB   0B / 602kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       17.84%    6.262MiB / 23.44GiB   0.03%     13.7MB / 13.8MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         162.56%   1.085GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.4MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        15.26%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        18.11%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         166.42%   1.042GiB / 23.44GiB   4.45%     45.6GB / 33.8GB   0B / 602kB      26
+116606adf744   rfsim5g-oai-cuup2       18.22%    6.281MiB / 23.44GiB   0.03%     14.2MB / 14.2MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         179.58%   1.081GiB / 23.44GiB   4.61%     5.31TB / 3.94TB   0B / 57.4MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        13.88%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        18.74%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         166.42%   1.042GiB / 23.44GiB   4.45%     45.6GB / 33.8GB   0B / 602kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       18.22%    6.281MiB / 23.44GiB   0.03%     14.2MB / 14.2MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         179.58%   1.081GiB / 23.44GiB   4.61%     5.31TB / 3.94TB   0B / 57.4MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        13.88%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        18.74%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         166.42%   1.042GiB / 23.44GiB   4.45%     45.6GB / 33.8GB   0B / 602kB      26
+116606adf744   rfsim5g-oai-cuup2       18.22%    6.281MiB / 23.44GiB   0.03%     14.2MB / 14.2MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         179.58%   1.081GiB / 23.44GiB   4.61%     5.31TB / 3.94TB   0B / 57.4MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        13.88%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        18.74%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         166.42%   1.042GiB / 23.44GiB   4.45%     45.6GB / 33.8GB   0B / 602kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       18.22%    6.281MiB / 23.44GiB   0.03%     14.2MB / 14.2MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         179.58%   1.081GiB / 23.44GiB   4.61%     5.31TB / 3.94TB   0B / 57.4MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        13.88%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        18.74%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         168.02%   1.041GiB / 23.44GiB   4.44%     45.7GB / 33.9GB   0B / 610kB      26
+116606adf744   rfsim5g-oai-cuup2       18.58%    6.543MiB / 23.44GiB   0.03%     14.6MB / 14.6MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         169.54%   1.082GiB / 23.44GiB   4.62%     5.31TB / 3.94TB   0B / 57.4MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        25.67%    60.92MiB / 23.44GiB   0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        20.07%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         168.02%   1.041GiB / 23.44GiB   4.44%     45.7GB / 33.9GB   0B / 610kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       18.58%    6.543MiB / 23.44GiB   0.03%     14.6MB / 14.6MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         169.54%   1.082GiB / 23.44GiB   4.62%     5.31TB / 3.94TB   0B / 57.4MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        25.67%    60.92MiB / 23.44GiB   0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        20.07%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         168.02%   1.041GiB / 23.44GiB   4.44%     45.7GB / 33.9GB   0B / 610kB      26
+116606adf744   rfsim5g-oai-cuup2       18.58%    6.543MiB / 23.44GiB   0.03%     14.6MB / 14.6MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         169.54%   1.082GiB / 23.44GiB   4.62%     5.31TB / 3.94TB   0B / 57.4MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        25.67%    60.92MiB / 23.44GiB   0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        20.07%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         168.02%   1.041GiB / 23.44GiB   4.44%     45.7GB / 33.9GB   0B / 610kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       18.58%    6.543MiB / 23.44GiB   0.03%     14.6MB / 14.6MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         169.54%   1.082GiB / 23.44GiB   4.62%     5.31TB / 3.94TB   0B / 57.4MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        25.67%    60.92MiB / 23.44GiB   0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        20.07%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         166.53%   1.041GiB / 23.44GiB   4.44%     45.8GB / 34GB     0B / 610kB      26
+116606adf744   rfsim5g-oai-cuup2       16.95%    6.316MiB / 23.44GiB   0.03%     15MB / 15.1MB     0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         162.64%   1.081GiB / 23.44GiB   4.61%     5.31TB / 3.94TB   0B / 57.4MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        14.67%    60.91MiB / 23.44GiB   0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        20.23%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         166.53%   1.041GiB / 23.44GiB   4.44%     45.8GB / 34GB     0B / 610kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       16.95%    6.316MiB / 23.44GiB   0.03%     15MB / 15.1MB     0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         162.64%   1.081GiB / 23.44GiB   4.61%     5.31TB / 3.94TB   0B / 57.4MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        14.67%    60.91MiB / 23.44GiB   0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        20.23%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         166.53%   1.041GiB / 23.44GiB   4.44%     45.8GB / 34GB     0B / 610kB      26
+116606adf744   rfsim5g-oai-cuup2       16.95%    6.316MiB / 23.44GiB   0.03%     15MB / 15.1MB     0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         162.64%   1.081GiB / 23.44GiB   4.61%     5.31TB / 3.94TB   0B / 57.4MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        14.67%    60.91MiB / 23.44GiB   0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        20.23%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         166.53%   1.041GiB / 23.44GiB   4.44%     45.8GB / 34GB     0B / 610kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       16.95%    6.316MiB / 23.44GiB   0.03%     15MB / 15.1MB     0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         162.64%   1.081GiB / 23.44GiB   4.61%     5.31TB / 3.94TB   0B / 57.4MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        14.67%    60.91MiB / 23.44GiB   0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        20.23%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         174.10%   1.039GiB / 23.44GiB   4.43%     45.9GB / 34.1GB   0B / 610kB      26
+116606adf744   rfsim5g-oai-cuup2       18.85%    6.574MiB / 23.44GiB   0.03%     15.5MB / 15.6MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         175.82%   1.084GiB / 23.44GiB   4.62%     5.31TB / 3.94TB   0B / 57.4MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        15.80%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        31.86%    8.625MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         174.10%   1.039GiB / 23.44GiB   4.43%     45.9GB / 34.1GB   0B / 610kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       18.85%    6.574MiB / 23.44GiB   0.03%     15.5MB / 15.6MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         175.82%   1.084GiB / 23.44GiB   4.62%     5.31TB / 3.94TB   0B / 57.4MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        15.80%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        31.86%    8.625MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         174.10%   1.039GiB / 23.44GiB   4.43%     45.9GB / 34.1GB   0B / 610kB      26
+116606adf744   rfsim5g-oai-cuup2       18.85%    6.574MiB / 23.44GiB   0.03%     15.5MB / 15.6MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         175.82%   1.084GiB / 23.44GiB   4.62%     5.31TB / 3.94TB   0B / 57.4MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        15.80%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        31.86%    8.625MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         174.10%   1.039GiB / 23.44GiB   4.43%     45.9GB / 34.1GB   0B / 610kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       18.85%    6.574MiB / 23.44GiB   0.03%     15.5MB / 15.6MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         175.82%   1.084GiB / 23.44GiB   4.62%     5.31TB / 3.94TB   0B / 57.4MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        15.80%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        31.86%    8.625MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         172.34%   1.041GiB / 23.44GiB   4.44%     46GB / 34.1GB     0B / 610kB      26
+116606adf744   rfsim5g-oai-cuup2       19.11%    6.352MiB / 23.44GiB   0.03%     16MB / 16MB       0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         170.84%   1.086GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.4MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        14.18%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        18.16%    8.625MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         172.34%   1.041GiB / 23.44GiB   4.44%     46GB / 34.1GB     0B / 610kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       19.11%    6.352MiB / 23.44GiB   0.03%     16MB / 16MB       0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         170.84%   1.086GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.4MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        14.18%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        18.16%    8.625MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         172.34%   1.041GiB / 23.44GiB   4.44%     46GB / 34.1GB     0B / 610kB      26
+116606adf744   rfsim5g-oai-cuup2       19.11%    6.352MiB / 23.44GiB   0.03%     16MB / 16MB       0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         170.84%   1.086GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.4MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        14.18%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        18.16%    8.625MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         172.34%   1.041GiB / 23.44GiB   4.44%     46GB / 34.1GB     0B / 610kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       19.11%    6.352MiB / 23.44GiB   0.03%     16MB / 16MB       0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         170.84%   1.086GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.4MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        14.18%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        18.16%    8.625MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         172.04%   1.037GiB / 23.44GiB   4.42%     46.1GB / 34.2GB   0B / 610kB      26
+116606adf744   rfsim5g-oai-cuup2       18.37%    6.352MiB / 23.44GiB   0.03%     16.4MB / 16.4MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         168.72%   1.087GiB / 23.44GiB   4.64%     5.31TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        15.57%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        18.58%    8.625MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         172.04%   1.037GiB / 23.44GiB   4.42%     46.1GB / 34.2GB   0B / 610kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       18.37%    6.352MiB / 23.44GiB   0.03%     16.4MB / 16.4MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         168.72%   1.087GiB / 23.44GiB   4.64%     5.31TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        15.57%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        18.58%    8.625MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         172.04%   1.037GiB / 23.44GiB   4.42%     46.1GB / 34.2GB   0B / 610kB      26
+116606adf744   rfsim5g-oai-cuup2       18.37%    6.352MiB / 23.44GiB   0.03%     16.4MB / 16.4MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         168.72%   1.087GiB / 23.44GiB   4.64%     5.31TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        15.57%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        18.58%    8.625MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         172.04%   1.037GiB / 23.44GiB   4.42%     46.1GB / 34.2GB   0B / 610kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       18.37%    6.352MiB / 23.44GiB   0.03%     16.4MB / 16.4MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         168.72%   1.087GiB / 23.44GiB   4.64%     5.31TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        15.57%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        18.58%    8.625MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         183.68%   1.039GiB / 23.44GiB   4.43%     46.3GB / 34.3GB   0B / 610kB      26
+116606adf744   rfsim5g-oai-cuup2       18.18%    6.352MiB / 23.44GiB   0.03%     16.8MB / 16.9MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         165.97%   1.086GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        13.56%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        19.51%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         183.68%   1.039GiB / 23.44GiB   4.43%     46.3GB / 34.3GB   0B / 610kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       18.18%    6.352MiB / 23.44GiB   0.03%     16.8MB / 16.9MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         165.97%   1.086GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        13.56%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        19.51%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         183.68%   1.039GiB / 23.44GiB   4.43%     46.3GB / 34.3GB   0B / 610kB      26
+116606adf744   rfsim5g-oai-cuup2       18.18%    6.352MiB / 23.44GiB   0.03%     16.8MB / 16.9MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         165.97%   1.086GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        13.56%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        19.51%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         183.68%   1.039GiB / 23.44GiB   4.43%     46.3GB / 34.3GB   0B / 610kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       18.18%    6.352MiB / 23.44GiB   0.03%     16.8MB / 16.9MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         165.97%   1.086GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        13.56%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        19.51%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         168.18%   1.041GiB / 23.44GiB   4.44%     46.4GB / 34.4GB   0B / 618kB      26
+116606adf744   rfsim5g-oai-cuup2       29.13%    6.363MiB / 23.44GiB   0.03%     17.3MB / 17.3MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         169.02%   1.082GiB / 23.44GiB   4.62%     5.31TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        13.26%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        17.69%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         168.18%   1.041GiB / 23.44GiB   4.44%     46.4GB / 34.4GB   0B / 618kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       29.13%    6.363MiB / 23.44GiB   0.03%     17.3MB / 17.3MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         169.02%   1.082GiB / 23.44GiB   4.62%     5.31TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        13.26%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        17.69%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         168.18%   1.041GiB / 23.44GiB   4.44%     46.4GB / 34.4GB   0B / 618kB      26
+116606adf744   rfsim5g-oai-cuup2       29.13%    6.363MiB / 23.44GiB   0.03%     17.3MB / 17.3MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         169.02%   1.082GiB / 23.44GiB   4.62%     5.31TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        13.26%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        17.69%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         168.18%   1.041GiB / 23.44GiB   4.44%     46.4GB / 34.4GB   0B / 618kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       29.13%    6.363MiB / 23.44GiB   0.03%     17.3MB / 17.3MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         169.02%   1.082GiB / 23.44GiB   4.62%     5.31TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        13.26%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        17.69%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         164.12%   1.039GiB / 23.44GiB   4.43%     46.5GB / 34.5GB   0B / 618kB      26
+116606adf744   rfsim5g-oai-cuup2       17.80%    6.355MiB / 23.44GiB   0.03%     17.7MB / 17.7MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         168.03%   1.085GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        14.36%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        19.85%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         164.12%   1.039GiB / 23.44GiB   4.43%     46.5GB / 34.5GB   0B / 618kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       17.80%    6.355MiB / 23.44GiB   0.03%     17.7MB / 17.7MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         168.03%   1.085GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        14.36%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        19.85%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         164.12%   1.039GiB / 23.44GiB   4.43%     46.5GB / 34.5GB   0B / 618kB      26
+116606adf744   rfsim5g-oai-cuup2       17.80%    6.355MiB / 23.44GiB   0.03%     17.7MB / 17.7MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         168.03%   1.085GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        14.36%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        19.85%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         164.12%   1.039GiB / 23.44GiB   4.43%     46.5GB / 34.5GB   0B / 618kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       17.80%    6.355MiB / 23.44GiB   0.03%     17.7MB / 17.7MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         168.03%   1.085GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        14.36%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        19.85%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         164.12%   1.039GiB / 23.44GiB   4.43%     46.5GB / 34.5GB   0B / 618kB      26
+116606adf744   rfsim5g-oai-cuup2       17.80%    6.355MiB / 23.44GiB   0.03%     17.7MB / 17.7MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         168.03%   1.085GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        14.36%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        20.34%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         164.12%   1.039GiB / 23.44GiB   4.43%     46.5GB / 34.5GB   0B / 618kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       17.80%    6.355MiB / 23.44GiB   0.03%     17.7MB / 17.7MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         168.03%   1.085GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        14.36%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        20.34%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         171.78%   1.042GiB / 23.44GiB   4.44%     46.6GB / 34.6GB   0B / 618kB      26
+116606adf744   rfsim5g-oai-cuup2       18.76%    6.355MiB / 23.44GiB   0.03%     18.1MB / 18.2MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         169.82%   1.086GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        14.50%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        20.34%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         171.78%   1.042GiB / 23.44GiB   4.44%     46.6GB / 34.6GB   0B / 618kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       18.76%    6.355MiB / 23.44GiB   0.03%     18.1MB / 18.2MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         169.82%   1.086GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        14.50%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        20.34%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         171.78%   1.042GiB / 23.44GiB   4.44%     46.6GB / 34.6GB   0B / 618kB      26
+116606adf744   rfsim5g-oai-cuup2       18.76%    6.355MiB / 23.44GiB   0.03%     18.1MB / 18.2MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         169.82%   1.086GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        14.50%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        20.34%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         171.78%   1.042GiB / 23.44GiB   4.44%     46.6GB / 34.6GB   0B / 618kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       18.76%    6.355MiB / 23.44GiB   0.03%     18.1MB / 18.2MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         169.82%   1.086GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        14.50%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        20.34%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         170.40%   1.039GiB / 23.44GiB   4.43%     46.7GB / 34.7GB   0B / 618kB      26
+116606adf744   rfsim5g-oai-cuup2       18.88%    6.355MiB / 23.44GiB   0.03%     18.6MB / 18.6MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         179.66%   1.085GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        13.80%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        18.72%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         170.40%   1.039GiB / 23.44GiB   4.43%     46.7GB / 34.7GB   0B / 618kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       18.88%    6.355MiB / 23.44GiB   0.03%     18.6MB / 18.6MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         179.66%   1.085GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        13.80%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        18.72%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         170.40%   1.039GiB / 23.44GiB   4.43%     46.7GB / 34.7GB   0B / 618kB      26
+116606adf744   rfsim5g-oai-cuup2       18.88%    6.355MiB / 23.44GiB   0.03%     18.6MB / 18.6MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         179.66%   1.085GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        13.80%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        18.72%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         170.40%   1.039GiB / 23.44GiB   4.43%     46.7GB / 34.7GB   0B / 618kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       18.88%    6.355MiB / 23.44GiB   0.03%     18.6MB / 18.6MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         179.66%   1.085GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        13.80%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        18.72%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         170.25%   1.043GiB / 23.44GiB   4.45%     46.8GB / 34.7GB   0B / 618kB      26
+116606adf744   rfsim5g-oai-cuup2       17.74%    6.355MiB / 23.44GiB   0.03%     19MB / 19.1MB     0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         165.99%   1.086GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        26.39%    60.92MiB / 23.44GiB   0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        19.12%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         170.25%   1.043GiB / 23.44GiB   4.45%     46.8GB / 34.7GB   0B / 618kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       17.74%    6.355MiB / 23.44GiB   0.03%     19MB / 19.1MB     0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         165.99%   1.086GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        26.39%    60.92MiB / 23.44GiB   0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        19.12%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         170.25%   1.043GiB / 23.44GiB   4.45%     46.8GB / 34.7GB   0B / 618kB      26
+116606adf744   rfsim5g-oai-cuup2       17.74%    6.355MiB / 23.44GiB   0.03%     19MB / 19.1MB     0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         165.99%   1.086GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        26.39%    60.92MiB / 23.44GiB   0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        19.12%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         170.25%   1.043GiB / 23.44GiB   4.45%     46.8GB / 34.7GB   0B / 618kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       17.74%    6.355MiB / 23.44GiB   0.03%     19MB / 19.1MB     0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         165.99%   1.086GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        26.39%    60.92MiB / 23.44GiB   0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        19.12%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         168.93%   1.039GiB / 23.44GiB   4.43%     47GB / 34.8GB     0B / 627kB      26
+116606adf744   rfsim5g-oai-cuup2       19.16%    6.355MiB / 23.44GiB   0.03%     19.5MB / 19.5MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         159.67%   1.085GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        14.57%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        17.10%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         168.93%   1.039GiB / 23.44GiB   4.43%     47GB / 34.8GB     0B / 627kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       19.16%    6.355MiB / 23.44GiB   0.03%     19.5MB / 19.5MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         159.67%   1.085GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        14.57%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        17.10%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         168.93%   1.039GiB / 23.44GiB   4.43%     47GB / 34.8GB     0B / 627kB      26
+116606adf744   rfsim5g-oai-cuup2       19.16%    6.355MiB / 23.44GiB   0.03%     19.5MB / 19.5MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         159.67%   1.085GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        14.57%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        17.10%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         168.93%   1.039GiB / 23.44GiB   4.43%     47GB / 34.8GB     0B / 627kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       19.16%    6.355MiB / 23.44GiB   0.03%     19.5MB / 19.5MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         159.67%   1.085GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        14.57%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        17.10%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         171.58%   1.041GiB / 23.44GiB   4.44%     47.1GB / 34.9GB   0B / 627kB      26
+116606adf744   rfsim5g-oai-cuup2       18.34%    6.355MiB / 23.44GiB   0.03%     19.9MB / 20MB     0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         165.39%   1.086GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        15.04%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        29.33%    8.609MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         171.58%   1.041GiB / 23.44GiB   4.44%     47.1GB / 34.9GB   0B / 627kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       18.34%    6.355MiB / 23.44GiB   0.03%     19.9MB / 20MB     0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         165.39%   1.086GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        15.04%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        29.33%    8.609MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         171.58%   1.041GiB / 23.44GiB   4.44%     47.1GB / 34.9GB   0B / 627kB      26
+116606adf744   rfsim5g-oai-cuup2       18.34%    6.355MiB / 23.44GiB   0.03%     19.9MB / 20MB     0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         165.39%   1.086GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        15.04%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        29.33%    8.609MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         171.58%   1.041GiB / 23.44GiB   4.44%     47.1GB / 34.9GB   0B / 627kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       18.34%    6.355MiB / 23.44GiB   0.03%     19.9MB / 20MB     0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         165.39%   1.086GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        15.04%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        29.33%    8.609MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         173.80%   1.04GiB / 23.44GiB    4.44%     47.2GB / 35GB     0B / 627kB      26
+116606adf744   rfsim5g-oai-cuup2       21.03%    6.355MiB / 23.44GiB   0.03%     20.4MB / 20.4MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         168.49%   1.086GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        15.69%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        20.81%    8.609MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         173.80%   1.04GiB / 23.44GiB    4.44%     47.2GB / 35GB     0B / 627kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       21.03%    6.355MiB / 23.44GiB   0.03%     20.4MB / 20.4MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         168.49%   1.086GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        15.69%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        20.81%    8.609MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         173.80%   1.04GiB / 23.44GiB    4.44%     47.2GB / 35GB     0B / 627kB      26
+116606adf744   rfsim5g-oai-cuup2       21.03%    6.355MiB / 23.44GiB   0.03%     20.4MB / 20.4MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         168.49%   1.086GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        15.69%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        20.81%    8.609MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         173.80%   1.04GiB / 23.44GiB    4.44%     47.2GB / 35GB     0B / 627kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       21.03%    6.355MiB / 23.44GiB   0.03%     20.4MB / 20.4MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         168.49%   1.086GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        15.69%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        20.81%    8.609MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         184.58%   1.037GiB / 23.44GiB   4.43%     47.3GB / 35.1GB   0B / 627kB      26
+116606adf744   rfsim5g-oai-cuup2       19.54%    6.355MiB / 23.44GiB   0.03%     20.8MB / 20.9MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         168.48%   1.086GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        14.42%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        18.63%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         184.58%   1.037GiB / 23.44GiB   4.43%     47.3GB / 35.1GB   0B / 627kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       19.54%    6.355MiB / 23.44GiB   0.03%     20.8MB / 20.9MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         168.48%   1.086GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        14.42%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        18.63%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         184.58%   1.037GiB / 23.44GiB   4.43%     47.3GB / 35.1GB   0B / 627kB      26
+116606adf744   rfsim5g-oai-cuup2       19.54%    6.355MiB / 23.44GiB   0.03%     20.8MB / 20.9MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         168.48%   1.086GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        14.42%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        18.63%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         184.58%   1.037GiB / 23.44GiB   4.43%     47.3GB / 35.1GB   0B / 627kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       19.54%    6.355MiB / 23.44GiB   0.03%     20.8MB / 20.9MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         168.48%   1.086GiB / 23.44GiB   4.63%     5.31TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        14.42%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        18.63%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         169.49%   1.038GiB / 23.44GiB   4.43%     47.4GB / 35.2GB   0B / 627kB      26
+116606adf744   rfsim5g-oai-cuup2       18.61%    6.355MiB / 23.44GiB   0.03%     21.3MB / 21.3MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         166.23%   1.085GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        13.25%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        17.87%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         169.49%   1.038GiB / 23.44GiB   4.43%     47.4GB / 35.2GB   0B / 627kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       18.61%    6.355MiB / 23.44GiB   0.03%     21.3MB / 21.3MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         166.23%   1.085GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        13.25%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        17.87%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         169.49%   1.038GiB / 23.44GiB   4.43%     47.4GB / 35.2GB   0B / 627kB      26
+116606adf744   rfsim5g-oai-cuup2       18.61%    6.355MiB / 23.44GiB   0.03%     21.3MB / 21.3MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         166.23%   1.085GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        13.25%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        17.87%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         169.49%   1.038GiB / 23.44GiB   4.43%     47.4GB / 35.2GB   0B / 627kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       18.61%    6.355MiB / 23.44GiB   0.03%     21.3MB / 21.3MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         166.23%   1.085GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        13.25%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        17.87%    8.578MiB / 23.44GiB   0.04%     9.62GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         174.42%   1.042GiB / 23.44GiB   4.45%     47.6GB / 35.3GB   0B / 635kB      26
+116606adf744   rfsim5g-oai-cuup2       31.91%    6.363MiB / 23.44GiB   0.03%     21.8MB / 21.8MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         163.55%   1.082GiB / 23.44GiB   4.62%     5.32TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        13.57%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        18.98%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         174.42%   1.042GiB / 23.44GiB   4.45%     47.6GB / 35.3GB   0B / 635kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       31.91%    6.363MiB / 23.44GiB   0.03%     21.8MB / 21.8MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         163.55%   1.082GiB / 23.44GiB   4.62%     5.32TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        13.57%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        18.98%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         174.42%   1.042GiB / 23.44GiB   4.45%     47.6GB / 35.3GB   0B / 635kB      26
+116606adf744   rfsim5g-oai-cuup2       31.91%    6.363MiB / 23.44GiB   0.03%     21.8MB / 21.8MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         163.55%   1.082GiB / 23.44GiB   4.62%     5.32TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        13.57%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        18.98%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         174.42%   1.042GiB / 23.44GiB   4.45%     47.6GB / 35.3GB   0B / 635kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       31.91%    6.363MiB / 23.44GiB   0.03%     21.8MB / 21.8MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         163.55%   1.082GiB / 23.44GiB   4.62%     5.32TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        13.57%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        18.98%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         170.67%   1.041GiB / 23.44GiB   4.44%     47.7GB / 35.4GB   0B / 635kB      26
+116606adf744   rfsim5g-oai-cuup2       19.81%    6.359MiB / 23.44GiB   0.03%     22.2MB / 22.3MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         163.38%   1.085GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        14.40%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        19.56%    8.645MiB / 23.44GiB   0.04%     9.63GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         170.67%   1.041GiB / 23.44GiB   4.44%     47.7GB / 35.4GB   0B / 635kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       19.81%    6.359MiB / 23.44GiB   0.03%     22.2MB / 22.3MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         163.38%   1.085GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        14.40%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        19.56%    8.645MiB / 23.44GiB   0.04%     9.63GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         170.67%   1.041GiB / 23.44GiB   4.44%     47.7GB / 35.4GB   0B / 635kB      26
+116606adf744   rfsim5g-oai-cuup2       19.81%    6.359MiB / 23.44GiB   0.03%     22.2MB / 22.3MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         163.38%   1.085GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        14.40%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        19.56%    8.645MiB / 23.44GiB   0.04%     9.63GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         170.67%   1.041GiB / 23.44GiB   4.44%     47.7GB / 35.4GB   0B / 635kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       19.81%    6.359MiB / 23.44GiB   0.03%     22.2MB / 22.3MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         163.38%   1.085GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        14.40%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        19.56%    8.645MiB / 23.44GiB   0.04%     9.63GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         172.51%   1.038GiB / 23.44GiB   4.43%     47.8GB / 35.5GB   0B / 635kB      26
+116606adf744   rfsim5g-oai-cuup2       18.99%    6.359MiB / 23.44GiB   0.03%     22.6MB / 22.7MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         163.10%   1.086GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        15.43%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        17.86%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         172.51%   1.038GiB / 23.44GiB   4.43%     47.8GB / 35.5GB   0B / 635kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       18.99%    6.359MiB / 23.44GiB   0.03%     22.6MB / 22.7MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         163.10%   1.086GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        15.43%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        17.86%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         172.51%   1.038GiB / 23.44GiB   4.43%     47.8GB / 35.5GB   0B / 635kB      26
+116606adf744   rfsim5g-oai-cuup2       18.99%    6.359MiB / 23.44GiB   0.03%     22.6MB / 22.7MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         163.10%   1.086GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        15.43%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        17.86%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         172.51%   1.038GiB / 23.44GiB   4.43%     47.8GB / 35.5GB   0B / 635kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       18.99%    6.359MiB / 23.44GiB   0.03%     22.6MB / 22.7MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         163.10%   1.086GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        15.43%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        17.86%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         172.51%   1.038GiB / 23.44GiB   4.43%     47.8GB / 35.5GB   0B / 635kB      26
+116606adf744   rfsim5g-oai-cuup2       18.95%    6.594MiB / 23.44GiB   0.03%     23MB / 23.1MB     0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         163.10%   1.086GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        14.61%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        17.86%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         172.51%   1.038GiB / 23.44GiB   4.43%     47.8GB / 35.5GB   0B / 635kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       18.95%    6.594MiB / 23.44GiB   0.03%     23MB / 23.1MB     0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         163.10%   1.086GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        14.61%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        17.86%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         168.71%   1.04GiB / 23.44GiB    4.44%     47.9GB / 35.5GB   0B / 635kB      26
+116606adf744   rfsim5g-oai-cuup2       18.95%    6.594MiB / 23.44GiB   0.03%     23MB / 23.1MB     0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         183.58%   1.087GiB / 23.44GiB   4.64%     5.32TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        14.61%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        19.14%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         168.71%   1.04GiB / 23.44GiB    4.44%     47.9GB / 35.5GB   0B / 635kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       18.95%    6.594MiB / 23.44GiB   0.03%     23MB / 23.1MB     0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         183.58%   1.087GiB / 23.44GiB   4.64%     5.32TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        14.61%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        19.14%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         168.71%   1.04GiB / 23.44GiB    4.44%     47.9GB / 35.5GB   0B / 635kB      26
+116606adf744   rfsim5g-oai-cuup2       18.95%    6.594MiB / 23.44GiB   0.03%     23MB / 23.1MB     0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         183.58%   1.087GiB / 23.44GiB   4.64%     5.32TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        14.61%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        19.14%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.75GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         168.71%   1.04GiB / 23.44GiB    4.44%     47.9GB / 35.5GB   0B / 635kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       18.95%    6.594MiB / 23.44GiB   0.03%     23MB / 23.1MB     0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         183.58%   1.087GiB / 23.44GiB   4.64%     5.32TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        14.61%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        19.14%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.75GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         167.47%   1.038GiB / 23.44GiB   4.43%     48GB / 35.6GB     0B / 635kB      26
+116606adf744   rfsim5g-oai-cuup2       19.48%    6.355MiB / 23.44GiB   0.03%     23.5MB / 23.6MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         170.41%   1.087GiB / 23.44GiB   4.64%     5.32TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        26.00%    60.96MiB / 23.44GiB   0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        19.72%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         167.47%   1.038GiB / 23.44GiB   4.43%     48GB / 35.6GB     0B / 635kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       19.48%    6.355MiB / 23.44GiB   0.03%     23.5MB / 23.6MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         170.41%   1.087GiB / 23.44GiB   4.64%     5.32TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        26.00%    60.96MiB / 23.44GiB   0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        19.72%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         167.47%   1.038GiB / 23.44GiB   4.43%     48GB / 35.6GB     0B / 635kB      26
+116606adf744   rfsim5g-oai-cuup2       19.48%    6.355MiB / 23.44GiB   0.03%     23.5MB / 23.6MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         170.41%   1.087GiB / 23.44GiB   4.64%     5.32TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        26.00%    60.96MiB / 23.44GiB   0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        19.72%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         167.47%   1.038GiB / 23.44GiB   4.43%     48GB / 35.6GB     0B / 635kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       19.48%    6.355MiB / 23.44GiB   0.03%     23.5MB / 23.6MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         170.41%   1.087GiB / 23.44GiB   4.64%     5.32TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        26.00%    60.96MiB / 23.44GiB   0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        19.72%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         173.95%   1.04GiB / 23.44GiB    4.44%     48.2GB / 35.7GB   0B / 643kB      26
+116606adf744   rfsim5g-oai-cuup2       17.99%    6.355MiB / 23.44GiB   0.03%     24MB / 24.1MB     0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         164.31%   1.087GiB / 23.44GiB   4.64%     5.32TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        13.99%    60.91MiB / 23.44GiB   0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        33.49%    8.59MiB / 23.44GiB    0.04%     9.63GB / 7.76GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         173.95%   1.04GiB / 23.44GiB    4.44%     48.2GB / 35.7GB   0B / 643kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       17.99%    6.355MiB / 23.44GiB   0.03%     24MB / 24.1MB     0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         164.31%   1.087GiB / 23.44GiB   4.64%     5.32TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        13.99%    60.91MiB / 23.44GiB   0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        33.49%    8.59MiB / 23.44GiB    0.04%     9.63GB / 7.76GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         173.95%   1.04GiB / 23.44GiB    4.44%     48.2GB / 35.7GB   0B / 643kB      26
+116606adf744   rfsim5g-oai-cuup2       17.99%    6.355MiB / 23.44GiB   0.03%     24MB / 24.1MB     0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         164.31%   1.087GiB / 23.44GiB   4.64%     5.32TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        13.99%    60.91MiB / 23.44GiB   0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        33.49%    8.59MiB / 23.44GiB    0.04%     9.63GB / 7.76GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         173.95%   1.04GiB / 23.44GiB    4.44%     48.2GB / 35.7GB   0B / 643kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       17.99%    6.355MiB / 23.44GiB   0.03%     24MB / 24.1MB     0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         164.31%   1.087GiB / 23.44GiB   4.64%     5.32TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        13.99%    60.91MiB / 23.44GiB   0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        33.49%    8.59MiB / 23.44GiB    0.04%     9.63GB / 7.76GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         169.90%   1.038GiB / 23.44GiB   4.43%     48.3GB / 35.8GB   0B / 643kB      26
+116606adf744   rfsim5g-oai-cuup2       18.70%    6.363MiB / 23.44GiB   0.03%     24.4MB / 24.5MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         163.16%   1.087GiB / 23.44GiB   4.64%     5.32TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        15.34%    60.91MiB / 23.44GiB   0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        18.77%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         169.90%   1.038GiB / 23.44GiB   4.43%     48.3GB / 35.8GB   0B / 643kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       18.70%    6.363MiB / 23.44GiB   0.03%     24.4MB / 24.5MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         163.16%   1.087GiB / 23.44GiB   4.64%     5.32TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        15.34%    60.91MiB / 23.44GiB   0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        18.77%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         169.90%   1.038GiB / 23.44GiB   4.43%     48.3GB / 35.8GB   0B / 643kB      26
+116606adf744   rfsim5g-oai-cuup2       18.70%    6.363MiB / 23.44GiB   0.03%     24.4MB / 24.5MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         163.16%   1.087GiB / 23.44GiB   4.64%     5.32TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        15.34%    60.91MiB / 23.44GiB   0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        18.77%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         169.90%   1.038GiB / 23.44GiB   4.43%     48.3GB / 35.8GB   0B / 643kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       18.70%    6.363MiB / 23.44GiB   0.03%     24.4MB / 24.5MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         163.16%   1.087GiB / 23.44GiB   4.64%     5.32TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        15.34%    60.91MiB / 23.44GiB   0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        18.77%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         172.76%   1.041GiB / 23.44GiB   4.44%     48.4GB / 35.9GB   0B / 643kB      26
+116606adf744   rfsim5g-oai-cuup2       18.55%    6.363MiB / 23.44GiB   0.03%     24.9MB / 25MB     0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         162.65%   1.086GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        14.74%    60.91MiB / 23.44GiB   0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        18.88%    8.789MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         172.76%   1.041GiB / 23.44GiB   4.44%     48.4GB / 35.9GB   0B / 643kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       18.55%    6.363MiB / 23.44GiB   0.03%     24.9MB / 25MB     0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         162.65%   1.086GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        14.74%    60.91MiB / 23.44GiB   0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        18.88%    8.789MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         172.76%   1.041GiB / 23.44GiB   4.44%     48.4GB / 35.9GB   0B / 643kB      26
+116606adf744   rfsim5g-oai-cuup2       18.55%    6.363MiB / 23.44GiB   0.03%     24.9MB / 25MB     0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         162.65%   1.086GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        14.74%    60.91MiB / 23.44GiB   0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        18.88%    8.789MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         172.76%   1.041GiB / 23.44GiB   4.44%     48.4GB / 35.9GB   0B / 643kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       18.55%    6.363MiB / 23.44GiB   0.03%     24.9MB / 25MB     0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         162.65%   1.086GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        14.74%    60.91MiB / 23.44GiB   0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        18.88%    8.789MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         179.84%   1.04GiB / 23.44GiB    4.44%     48.5GB / 36GB     0B / 643kB      26
+116606adf744   rfsim5g-oai-cuup2       18.21%    6.363MiB / 23.44GiB   0.03%     25.3MB / 25.4MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         171.14%   1.085GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        14.31%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        19.16%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         179.84%   1.04GiB / 23.44GiB    4.44%     48.5GB / 36GB     0B / 643kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       18.21%    6.363MiB / 23.44GiB   0.03%     25.3MB / 25.4MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         171.14%   1.085GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        14.31%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        19.16%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         179.84%   1.04GiB / 23.44GiB    4.44%     48.5GB / 36GB     0B / 643kB      26
+116606adf744   rfsim5g-oai-cuup2       18.21%    6.363MiB / 23.44GiB   0.03%     25.3MB / 25.4MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         171.14%   1.085GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        14.31%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        19.16%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         179.84%   1.04GiB / 23.44GiB    4.44%     48.5GB / 36GB     0B / 643kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       18.21%    6.363MiB / 23.44GiB   0.03%     25.3MB / 25.4MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         171.14%   1.085GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        14.31%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        19.16%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         171.09%   1.041GiB / 23.44GiB   4.44%     48.6GB / 36.1GB   0B / 643kB      26
+116606adf744   rfsim5g-oai-cuup2       20.59%    6.363MiB / 23.44GiB   0.03%     25.8MB / 25.8MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         168.27%   1.085GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        17.29%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        19.31%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         171.09%   1.041GiB / 23.44GiB   4.44%     48.6GB / 36.1GB   0B / 643kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       20.59%    6.363MiB / 23.44GiB   0.03%     25.8MB / 25.8MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         168.27%   1.085GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        17.29%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        19.31%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         171.09%   1.041GiB / 23.44GiB   4.44%     48.6GB / 36.1GB   0B / 643kB      26
+116606adf744   rfsim5g-oai-cuup2       20.59%    6.363MiB / 23.44GiB   0.03%     25.8MB / 25.8MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         168.27%   1.085GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        17.29%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        19.31%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         171.09%   1.041GiB / 23.44GiB   4.44%     48.6GB / 36.1GB   0B / 643kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       20.59%    6.363MiB / 23.44GiB   0.03%     25.8MB / 25.8MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         168.27%   1.085GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        17.29%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        19.31%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         162.13%   1.038GiB / 23.44GiB   4.43%     48.7GB / 36.2GB   0B / 643kB      26
+116606adf744   rfsim5g-oai-cuup2       28.09%    6.383MiB / 23.44GiB   0.03%     26.2MB / 26.3MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         170.69%   1.087GiB / 23.44GiB   4.64%     5.32TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        13.40%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        17.80%    8.793MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         162.13%   1.038GiB / 23.44GiB   4.43%     48.7GB / 36.2GB   0B / 643kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       28.09%    6.383MiB / 23.44GiB   0.03%     26.2MB / 26.3MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         170.69%   1.087GiB / 23.44GiB   4.64%     5.32TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        13.40%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        17.80%    8.793MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         162.13%   1.038GiB / 23.44GiB   4.43%     48.7GB / 36.2GB   0B / 643kB      26
+116606adf744   rfsim5g-oai-cuup2       28.09%    6.383MiB / 23.44GiB   0.03%     26.2MB / 26.3MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         170.69%   1.087GiB / 23.44GiB   4.64%     5.32TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        13.40%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        17.80%    8.793MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         162.13%   1.038GiB / 23.44GiB   4.43%     48.7GB / 36.2GB   0B / 643kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       28.09%    6.383MiB / 23.44GiB   0.03%     26.2MB / 26.3MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         170.69%   1.087GiB / 23.44GiB   4.64%     5.32TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        13.40%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        17.80%    8.793MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         176.33%   1.042GiB / 23.44GiB   4.44%     48.9GB / 36.3GB   0B / 651kB      26
+116606adf744   rfsim5g-oai-cuup2       18.31%    6.629MiB / 23.44GiB   0.03%     26.7MB / 26.8MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         167.71%   1.087GiB / 23.44GiB   4.64%     5.32TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        14.19%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        18.38%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         176.33%   1.042GiB / 23.44GiB   4.44%     48.9GB / 36.3GB   0B / 651kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       18.31%    6.629MiB / 23.44GiB   0.03%     26.7MB / 26.8MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         167.71%   1.087GiB / 23.44GiB   4.64%     5.32TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        14.19%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        18.38%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         176.33%   1.042GiB / 23.44GiB   4.44%     48.9GB / 36.3GB   0B / 651kB      26
+116606adf744   rfsim5g-oai-cuup2       18.31%    6.629MiB / 23.44GiB   0.03%     26.7MB / 26.8MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         167.71%   1.087GiB / 23.44GiB   4.64%     5.32TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        14.19%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        18.38%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         176.33%   1.042GiB / 23.44GiB   4.44%     48.9GB / 36.3GB   0B / 651kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       18.31%    6.629MiB / 23.44GiB   0.03%     26.7MB / 26.8MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         167.71%   1.087GiB / 23.44GiB   4.64%     5.32TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        14.19%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        18.38%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         173.97%   1.039GiB / 23.44GiB   4.43%     49GB / 36.3GB     0B / 651kB      26
+116606adf744   rfsim5g-oai-cuup2       19.27%    6.371MiB / 23.44GiB   0.03%     27.1MB / 27.2MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         176.53%   1.085GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        14.60%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        19.84%    8.598MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         173.97%   1.039GiB / 23.44GiB   4.43%     49GB / 36.3GB     0B / 651kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       19.27%    6.371MiB / 23.44GiB   0.03%     27.1MB / 27.2MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         176.53%   1.085GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        14.60%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        19.84%    8.598MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         173.97%   1.039GiB / 23.44GiB   4.43%     49GB / 36.3GB     0B / 651kB      26
+116606adf744   rfsim5g-oai-cuup2       19.27%    6.371MiB / 23.44GiB   0.03%     27.1MB / 27.2MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         176.53%   1.085GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        14.60%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13
+79b729c535d0   rfsim5g-oai-cuup        19.84%    8.598MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         173.97%   1.039GiB / 23.44GiB   4.43%     49GB / 36.3GB     0B / 651kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       19.27%    6.371MiB / 23.44GiB   0.03%     27.1MB / 27.2MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         176.53%   1.085GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        14.60%    60.9MiB / 23.44GiB    0.25%     5.14GB / 1.5MB    0B / 325MB      13 [K
+79b729c535d0   rfsim5g-oai-cuup        19.84%    8.598MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         167.26%   1.036GiB / 23.44GiB   4.42%     49.1GB / 36.4GB   0B / 651kB      26
+116606adf744   rfsim5g-oai-cuup2       20.87%    6.367MiB / 23.44GiB   0.03%     27.6MB / 27.7MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         168.70%   1.085GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        25.74%    61.65MiB / 23.44GiB   0.26%     5.14GB / 1.5MB    0B / 325MB      15
+79b729c535d0   rfsim5g-oai-cuup        18.67%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         167.26%   1.036GiB / 23.44GiB   4.42%     49.1GB / 36.4GB   0B / 651kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       20.87%    6.367MiB / 23.44GiB   0.03%     27.6MB / 27.7MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         168.70%   1.085GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        25.74%    61.65MiB / 23.44GiB   0.26%     5.14GB / 1.5MB    0B / 325MB      15 [K
+79b729c535d0   rfsim5g-oai-cuup        18.67%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         167.26%   1.036GiB / 23.44GiB   4.42%     49.1GB / 36.4GB   0B / 651kB      26
+116606adf744   rfsim5g-oai-cuup2       20.87%    6.367MiB / 23.44GiB   0.03%     27.6MB / 27.7MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         168.70%   1.085GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26
+1ff7eddb62a8   rfsim5g-oai-cucp        25.74%    61.65MiB / 23.44GiB   0.26%     5.14GB / 1.5MB    0B / 325MB      15
+79b729c535d0   rfsim5g-oai-cuup        18.67%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12
+d7a7b5dde049   rfsim5g-oai-du2         167.26%   1.036GiB / 23.44GiB   4.42%     49.1GB / 36.4GB   0B / 651kB      26 [K
+116606adf744   rfsim5g-oai-cuup2       20.87%    6.367MiB / 23.44GiB   0.03%     27.6MB / 27.7MB   0B / 0B         10 [K
+1241fcc4c0e0   rfsim5g-oai-du1         168.70%   1.085GiB / 23.44GiB   4.63%     5.32TB / 3.94TB   0B / 57.5MB     26 [K
+1ff7eddb62a8   rfsim5g-oai-cucp        25.74%    61.65MiB / 23.44GiB   0.26%     5.14GB / 1.5MB    0B / 325MB      15 [K
+79b729c535d0   rfsim5g-oai-cuup        18.67%    8.578MiB / 23.44GiB   0.04%     9.63GB / 7.76GB   1.37MB / 0B     12 [K
+d7a7b5dde049   rfsim5g-oai-du2         167.26%   1.036GiB / 23.44GiB   4.42%     49.1GB / 36.4GB   0B / 651kB      26
+116606adf744   rfsim5g-oai-cuup2       20.87%    6.367MiB / 23.44GiB   0.03%     27.6MB / 27.7MB   0B / 0B         10
+1241fcc4c0e0   rfsim5g-oai-du1         172.54%   1.086GiB / 23.44GiB   4.63%     5.3
