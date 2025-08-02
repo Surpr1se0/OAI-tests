@@ -212,3 +212,15 @@ pilot-analysis/dirty-files/pilot_ue6.log
 pilot-analysis/dirty-files/ue1_GS.txt
 pilot-analysis/dirty-files/ue2_GS.txt
 pilot-analysis/dirty-files/ue6_GS.txt
+pilot-analysis/clean-files/PBCH/PBCH_ue1.csv
+pilot-analysis/clean-files/PBCH/PBCH_ue2.csv
+pilot-analysis/clean-files/PBCH/PBCH_ue6.csv
+pilot-analysis/clean-files/PBCH-not-corr/PBCH_not_corrue1.csv
+pilot-analysis/clean-files/PBCH-not-corr/PBCH_not_corrue2.csv
+pilot-analysis/clean-files/PBCH-not-corr/PBCH_not_corrue6.csv
+pilot-analysis/clean-files/PDCCH/PDCHH_ue1.csv
+pilot-analysis/clean-files/PDCCH/PDCHH_ue2.csv
+pilot-analysis/clean-files/PDCCH/PDCHH_ue6.csv
+pilot-analysis/clean-files/PDSCH/PDSCH_ue1.csv
+pilot-analysis/clean-files/PDSCH/PDSCH_ue2.csv
+pilot-analysis/clean-files/PDSCH/PDSCH_ue6.csv
