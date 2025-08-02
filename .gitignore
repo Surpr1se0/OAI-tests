@@ -245,3 +245,6 @@ pilot-analysis/clean-files/ue2_GS.csv
 pilot-analysis/clean-files/ue6_GS.csv
 pilot-analysis/clean-files/x2_ue1_ue2_collisions.csv
 pilot-analysis/clean-files/x2_ue1_ue6_collisions.csv
+rx-pilot-estimation/dirty-files/ue1.log
+rx-pilot-estimation/dirty-files/ue2.log
+rx-pilot-estimation/dirty-files/ue6.log
