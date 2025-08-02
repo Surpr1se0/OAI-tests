@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+pilot-analysis/dirty-files/oai_dmrs_log.txt
+pilot-analysis/dirty-files/pilot_ue1.log
+pilot-analysis/dirty-files/pilot_ue2.log
+pilot-analysis/dirty-files/pilot_ue6.log
+pilot-analysis/dirty-files/ue1_GS.txt
+pilot-analysis/dirty-files/ue2_GS.txt
+pilot-analysis/dirty-files/ue6_GS.txt
