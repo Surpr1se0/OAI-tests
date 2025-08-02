@@ -248,3 +248,12 @@ pilot-analysis/clean-files/x2_ue1_ue6_collisions.csv
 rx-pilot-estimation/dirty-files/ue1.log
 rx-pilot-estimation/dirty-files/ue2.log
 rx-pilot-estimation/dirty-files/ue6.log
+rx-pilot-estimation/clean-files/PBCH/ue1.csv
+rx-pilot-estimation/clean-files/PBCH/ue2.csv
+rx-pilot-estimation/clean-files/PBCH/ue6.csv
+rx-pilot-estimation/clean-files/PDCCH/ue1.csv
+rx-pilot-estimation/clean-files/PDCCH/ue2.csv
+rx-pilot-estimation/clean-files/PDCCH/ue6.csv
+rx-pilot-estimation/clean-files/PDSCH/ue1.csv
+rx-pilot-estimation/clean-files/PDSCH/ue2.csv
+rx-pilot-estimation/clean-files/PDSCH/ue6.csv
