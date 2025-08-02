@@ -239,3 +239,9 @@ pilot-analysis/clean-files/dmrs_pdcch/PDCHH_DMRSue6.csv
 pilot-analysis/clean-files/dmrs_pdsch/PDSCH_DMRSue1.csv
 pilot-analysis/clean-files/dmrs_pdsch/PDSCH_DMRSue2.csv
 pilot-analysis/clean-files/dmrs_pdsch/PDSCH_DMRSue6.csv
+pilot-analysis/clean-files/oai_dmrs_log.csv
+pilot-analysis/clean-files/ue1_GS.csv
+pilot-analysis/clean-files/ue2_GS.csv
+pilot-analysis/clean-files/ue6_GS.csv
+pilot-analysis/clean-files/x2_ue1_ue2_collisions.csv
+pilot-analysis/clean-files/x2_ue1_ue6_collisions.csv
