@@ -3,7 +3,7 @@ import os
 
 # General variables
 scenarios = ["cf"]  # cell-free and cell-based
-num_ues = ["1"]
+num_ues = ["5"]
 base_dir_input = os.path.join("se", "new","dirty-files-ul")
 base_dir_output = os.path.join("se", "new", "clean-files-ul")
 
@@ -37,7 +37,6 @@ def extract_csv(input, output):
 
     print(f"Clean file created: {output}\n")
 
-# Processo em lote
 for scenario in scenarios:
     for num_ue in num_ues:
         for i in range(1, 30):
