@@ -1,0 +1,924 @@
+[UTIL]: Setting the config -c file to /usr/local/etc/flexric/flexric.conf
+[UTIL]: Setting path -p for the shared libraries to /usr/local/lib/flexric/
+[xAapp]: Initializing ... 
+[xApp]: nearRT-RIC IP Address = 192.168.70.150, PORT = 36422
+[E2 AGENT]: Opening plugin from path = /usr/local/lib/flexric/libkpm_sm.so 
+[E2 AGENT]: Opening plugin from path = /usr/local/lib/flexric/libmac_sm.so 
+[E2 AGENT]: Opening plugin from path = /usr/local/lib/flexric/libpdcp_sm.so 
+[E2 AGENT]: Opening plugin from path = /usr/local/lib/flexric/libgtp_sm.so 
+[E2 AGENT]: Opening plugin from path = /usr/local/lib/flexric/librc_sm.so 
+[E2 AGENT]: Opening plugin from path = /usr/local/lib/flexric/libtc_sm.so 
+[E2 AGENT]: Opening plugin from path = /usr/local/lib/flexric/librlc_sm.so 
+[E2 AGENT]: Opening plugin from path = /usr/local/lib/flexric/libslice_sm.so 
+[NEAR-RIC]: Loading SM ID = 2 with def = ORAN-E2SM-KPM 
+[NEAR-RIC]: Loading SM ID = 142 with def = MAC_STATS_V0 
+[NEAR-RIC]: Loading SM ID = 144 with def = PDCP_STATS_V0 
+[NEAR-RIC]: Loading SM ID = 148 with def = GTP_STATS_V0 
+[NEAR-RIC]: Loading SM ID = 3 with def = ORAN-E2SM-RC 
+[NEAR-RIC]: Loading SM ID = 146 with def = TC_STATS_V0 
+[NEAR-RIC]: Loading SM ID = 143 with def = RLC_STATS_V0 
+[NEAR-RIC]: Loading SM ID = 145 with def = SLICE_STATS_V0 
+[xApp]: DB filename = /tmp/flexric/xapp_db 
+ [xApp]: E42 SETUP-REQUEST tx
+[xApp]: E42 SETUP-RESPONSE rx 
+[xApp]: xApp ID = 29 
+[xApp]: Registered E2 Nodes = 4 
+Connected E2 nodes = 4
+[xAPP] Registered node 0 ran func id = 2 
+[xAPP] Registered node 0 ran func id = 3 
+[xAPP] Registered node 0 ran func id = 142 
+[xAPP] Registered node 0 ran func id = 143 
+[xAPP] Registered node 0 ran func id = 144 
+[xAPP] Registered node 0 ran func id = 145 
+[xAPP] Registered node 0 ran func id = 146 
+[xAPP] Registered node 0 ran func id = 148 
+[xAPP] CU or CUUP, don't do anything
+[xAPP] Registered node 1 ran func id = 2 
+[xAPP] Registered node 1 ran func id = 3 
+[xAPP] Registered node 1 ran func id = 142 
+[xAPP] Registered node 1 ran func id = 143 
+[xAPP] Registered node 1 ran func id = 144 
+[xAPP] Registered node 1 ran func id = 145 
+[xAPP] Registered node 1 ran func id = 146 
+[xAPP] Registered node 1 ran func id = 148 
+[xAPP] Registered node 2 ran func id = 2 
+[xAPP] Registered node 2 ran func id = 3 
+[xAPP] Registered node 2 ran func id = 142 
+[xAPP] Registered node 2 ran func id = 143 
+[xAPP] Registered node 2 ran func id = 144 
+[xAPP] Registered node 2 ran func id = 145 
+[xAPP] Registered node 2 ran func id = 146 
+[xAPP] Registered node 2 ran func id = 148 
+[xApp] DU detected
+[xApp]: E42 RIC SUBSCRIPTION REQUEST tx RAN_FUNC_ID 142 RIC_REQ_ID 1 
+[xApp]: SUBSCRIPTION RESPONSE rx
+[xApp]: Successfully subscribed to RAN_FUNC_ID 142 
+[xAPP] Registered node 3 ran func id = 2 
+[xAPP] Registered node 3 ran func id = 3 
+[xAPP] Registered node 3 ran func id = 142 
+[xAPP] Registered node 3 ran func id = 143 
+[xAPP] Registered node 3 ran func id = 144 
+[xAPP] Registered node 3 ran func id = 145 
+[xAPP] Registered node 3 ran func id = 146 
+[xAPP] Registered node 3 ran func id = 148 
+[xApp] DU detected
+[xApp]: E42 RIC SUBSCRIPTION REQUEST tx RAN_FUNC_ID 142 RIC_REQ_ID 2 
+[xApp]: SUBSCRIPTION RESPONSE rx
+[xApp]: Successfully subscribed to RAN_FUNC_ID 142 
+[   12 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[  112 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[  222 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[  332 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[  442 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[  542 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[  652 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[  762 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[  862 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[  972 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 1072 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 1182 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 1282 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 1392 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 1502 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 1612 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 1712 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 1812 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 1922 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 2022 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 2122 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 2222 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 2332 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 2442 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 2542 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 2652 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 2752 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 2862 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 2962 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 3062 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 3172 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 3272 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 3372 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 3472 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 3582 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 3682 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 3792 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 3893 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 4002 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 4112 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 4222 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 4332 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 4432 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 4542 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 4652 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 4762 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 4862 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 4972 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 5073 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 5182 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 5283 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 5392 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 5493 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 5602 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 5712 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 5822 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 5923 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 6032 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 6142 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 6252 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 6362 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 6472 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 6572 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 6682 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 6782 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 6883 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 6992 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 7093 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 7202 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 7302 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 7412 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 7512 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 7622 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 7723 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 7832 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 7932 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 8042 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 8152 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 8252 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 8362 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 8472 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 8582 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 8683 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 8792 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 8902 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 9012 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 9112 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 9213 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 9313 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 9422 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 9532 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 9632 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 9732 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 9842 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[ 9952 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[10062 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[10172 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[10282 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[10382 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[10492 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[10602 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[10702 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[10812 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[10913 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[11022 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[11123 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[11232 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[11332 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[11442 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[11542 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[11652 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[11752 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[11862 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[11962 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[12062 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[12172 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[12282 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[12392 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[12493 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[12602 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[12712 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[12812 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[12913 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[13023 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[13123 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[13232 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[13342 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[13443 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[13543 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[13652 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[13762 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[13872 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[13972 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[14082 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[14182 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[14292 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[14402 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[14502 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[14612 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[14712 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[14822 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[14922 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[15022 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[15123 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[15232 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[15333 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[15442 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[15542 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[15642 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[15752 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[15862 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[15962 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[16072 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[16173 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[16273 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[16382 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[16482 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[16592 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[16702 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[16802 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[16903 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[17013 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[17113 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[17222 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[17322 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[17432 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[17532 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[17642 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[17742 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[17842 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[17952 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[18053 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[18162 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[18262 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[18362 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[18462 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[18572 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[18682 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[18792 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[18893 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[19002 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[19103 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[19212 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[19312 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[19412 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[19522 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[19632 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[19732 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[19843 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[19943 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[20052 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[20162 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[20263 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[20372 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[20483 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[20592 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[20692 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[20792 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[20902 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[21012 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[21112 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[21222 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[21322 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[21432 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[21532 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[21642 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[21742 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[21842 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[21943 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[22053 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[22163 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[22272 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[22372 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[22483 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[22593 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[22703 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[22812 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[22922 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[23023 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[23133 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[23243 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[23343 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[23452 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[23562 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[23663 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[23772 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[23872 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[23982 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[24082 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[24193 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[24303 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[24403 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[24512 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[24622 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[24732 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[24832 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[24942 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[25043 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[25152 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[25252 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[25363 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[25472 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[25573 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[25683 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[25792 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[25893 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[26003 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[26112 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[26212 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[26312 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[26413 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[26522 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[26632 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[26733 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[26843 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[26953 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[27055 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[27163 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[27273 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[27382 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[27483 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[27593 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[27702 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[27802 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[27912 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[28022 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[28122 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[28233 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[28342 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[28442 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[28543 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[28652 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[28752 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[28862 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[28963 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[29063 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[29172 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[29273 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[29383 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[29492 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[29593 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[29702 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[29803 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[29912 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[30013 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[30113 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[30222 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[30323 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[30432 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[30532 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[30642 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[30742 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[30842 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[30943 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[31052 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[31153 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[31262 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[31372 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[31483 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[31592 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[31703 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[31803 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[31903 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[32013 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[32123 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[32223 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[32332 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[32433 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[32533 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[32642 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[32743 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[32843 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[32943 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[33053 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[33163 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[33273 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[33383 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[33493 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[33602 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[33703 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[33803 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[33912 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[34013 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[34123 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[34232 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[34333 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[34442 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[34544 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[34652 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[34763 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[34873 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[34982 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[35082 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[35183 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[35283 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[35383 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[35493 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[35603 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[35712 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[35813 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[35922 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[36023 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[36123 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[36223 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[36332 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[36433 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[36543 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[36652 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[36763 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[36872 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[36973 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[37082 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[37182 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[37293 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[37403 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[37512 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[37612 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[37713 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[37823 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[37923 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[38033 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[38142 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[38253 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[38363 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[38473 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[38573 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[38683 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[38793 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[38893 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[39002 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[39103 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[39213 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[39313 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[39423 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[39523 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[39633 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[39742 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[39843 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[39953 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[40063 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[40163 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[40273 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[40383 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[40493 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[40602 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[40703 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[40803 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[40912 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[41013 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[41123 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[41232 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[41342 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[41444 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[41553 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[41662 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[41763 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[41873 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[41983 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[42092 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[42193 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[42302 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[42403 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[42503 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[42612 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[42712 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[42813 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[42913 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[43022 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[43123 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[43232 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[43333 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[43442 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[43543 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[43653 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[43763 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[43863 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[43973 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[44082 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[44183 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[44293 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[44402 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[44503 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[44613 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[44723 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[44832 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[44932 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[45033 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[45133 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[45243 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[45352 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[45453 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[45563 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[45663 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[45773 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[45883 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[45993 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[46102 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[46203 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[46313 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[46413 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[46522 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[46623 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[46723 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[46833 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[46943 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[47053 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[47163 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[47273 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[47382 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[47483 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[47583 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[47693 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[47793 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[47903 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[48003 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[48113 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[48213 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[48323 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[48433 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[48543 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[48653 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[48753 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[48863 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[48963 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[49063 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[49163 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[49263 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[49373 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[49473 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[49583 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[49693 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[49793 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[49893 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[49993 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[50103 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[50203 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[50313 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[50413 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[50523 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[50623 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[50733 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[50833 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[50933 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[51042 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[51143 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[51253 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[51353 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[51463 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[51573 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[51683 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[51793 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[51893 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[52003 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[52113 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[52223 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[52332 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[52433 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[52533 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[52643 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[52753 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[52853 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[52953 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[53063 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[53163 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[53273 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[53373 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[53483 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[53593 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[53703 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[53813 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[53923 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[54023 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[54123 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[54233 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[54333 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[54433 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[54543 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[54653 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[54753 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[54863 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[54973 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[55073 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[55173 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[55273 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[55383 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[55483 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[55593 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[55703 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[55803 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[55913 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[56013 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[56123 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[56233 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[56343 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[56453 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[56563 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[56663 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[56773 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[56873 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[56983 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[57083 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[57193 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[57303 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[57403 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[57513 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[57623 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[57723 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[57823 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[57933 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[58043 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[58143 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[58243 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[58353 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[58453 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[58563 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[58673 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[58783 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[58893 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[58993 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[59103 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[59203 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[59313 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[59413 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[59523 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[59623 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[59733 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[59833 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[59943 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[60053 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[60163 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[60263 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[60373 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[60483 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[60593 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[60703 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[60803 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[60903 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[61013 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[61113 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[61223 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[61333 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[61443 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[61543 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[61653 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[61753 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[61863 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[61973 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[62073 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[62183 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[62283 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[62393 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[62493 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[62603 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[62703 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[62813 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[62913 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[63023 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[63123 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[63223 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[63333 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[63433 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[63543 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[63643 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[63753 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[63863 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[63963 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[64073 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[64183 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[64293 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[64403 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[64503 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[64613 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[64723 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[64823 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[64933 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[65043 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[65143 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[65253 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[65353 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[65453 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[65563 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[65673 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[65783 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[65883 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[65993 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[66103 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[66203 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[66313 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[66423 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[66523 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[66633 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[66743 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[66843 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[66953 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[67053 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[67163 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[67273 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[67373 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[67483 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[67593 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[67703 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[67813 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[67913 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[68013 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[68113 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[68224 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[68333 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[68433 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[68533 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[68643 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[68753 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[68863 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[68973 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[69083 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[69183 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[69284 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[69393 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[69493 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[69603 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[69703 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[69813 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[69913 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[70023 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[70123 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[70233 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[70343 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[70443 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[70553 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[70653 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[70763 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[70873 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[70973 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[71083 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[71183 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[71293 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[71403 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[71513 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[71623 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[71723 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[71823 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[71933 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[72033 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[72133 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[72243 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[72353 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[72453 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[72563 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[72663 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[72763 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[72873 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[72983 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[73083 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[73193 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[73303 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[73403 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[73504 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[73613 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[73723 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[73823 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[73923 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[74033 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[74143 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[74243 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[74353 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[74463 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[74573 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[74683 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[74783 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[74893 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[75003 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[75103 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[75203 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[75313 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[75413 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[75523 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[75633 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[75743 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[75843 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[75953 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[76063 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[76163 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[76273 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[76383 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[76484 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[76593 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[76693 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[76793 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[76903 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[77003 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[77103 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[77213 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[77313 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[77413 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[77523 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[77633 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[77743 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[77844 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[77953 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[78063 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[78163 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[78263 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[78373 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[78473 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[78583 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[78693 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[78793 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[78893 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[79003 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[79113 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[79223 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[79333 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[79433 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[79543 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[79653 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[79763 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[79863 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[79973 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[80073 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[80183 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[80283 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[80393 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[80493 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[80603 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[80703 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[80813 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[80913 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[81013 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[81123 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[81223 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[81333 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[81433 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[81543 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[81643 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[81753 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[81863 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[81973 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[82083 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[82183 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[82293 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[82393 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[82493 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[82603 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[82703 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[82813 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[82923 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[83023 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[83123 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[83233 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[83343 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[83453 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[83563 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[83663 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[83763 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[83873 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[83983 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[84083 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[84193 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[84293 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[84403 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[84513 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[84613 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[84723 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[84833 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[84933 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[85043 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[85153 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[85263 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[85364 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[85473 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[85573 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[85683 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[85793 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[85893 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[86003 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[86113 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[86213 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[86323 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[86433 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[86533 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[86643 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[86753 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[86863 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[86963 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[87064 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[87173 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[87283 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[87383 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[87493 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[87603 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[87713 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[87813 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[87923 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[88024 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[88133 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[88244 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[88353 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[88464 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[88574 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[88683 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[88784 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[88893 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[89004 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[89113 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[89214 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[89323 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[89423 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[89523 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[89633 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[89743 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[89853 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[89963 ms] [UE 39736] UL: SNR = 63.50 dB | SE = 20.778 bit/s/Hz
+[xApp]: E42 RIC_SUBSCRIPTION_DELETE_REQUEST tx RAN_FUNC_ID 142 RIC_REQ_ID 1 
+[xApp]: E42 SUBSCRIPTION DELETE RESPONSE rx
+[xApp]: E42 RIC_SUBSCRIPTION_DELETE_REQUEST tx RAN_FUNC_ID 142 RIC_REQ_ID 2 
+[xApp]: E42 SUBSCRIPTION DELETE RESPONSE rx
+[xApp]: Sucessfully stopped 
+Test xApp run SUCCESSFULLY
