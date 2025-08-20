@@ -2,8 +2,8 @@ import re
 import os
 
 # General variables
-scenarios = ["cf"]  # cell-free and cell-based
-num_ues = ["5"]
+scenarios = ["cf", "cb"]  # cell-free and cell-based
+num_ues = ["1","5","10"]
 base_dir_input = os.path.join("se", "new","dirty-files-ul")
 base_dir_output = os.path.join("se", "new", "clean-files-ul")
 
