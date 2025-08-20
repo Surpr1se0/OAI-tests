@@ -42,31 +42,31 @@ def analysis_per_mean(scenario, rep, ue_map=None, overhead=1.0):
     print(f"New file stored in {base_output_dir} for {scenario}-{rep}\n")
 
 ue_map_example = {
-    "UE0": [1171, 5256],
-    "UE1": [8279, 920],
-    "UE2": [12524, 14002],
-    "UE3": [14350, 14608],
-    "UE4": [18432, 37624],
-    "UE5": [40142, 46443],
-    "UE6": [47098, 54141],
-    "UE7": [54487, 55143],
-    "UE8": [55839, 55499],
-    "UE9": [60232, 55862]
+    0: [1171, 5256],
+    1: [8279, 920],
+    2: [12524, 14002],
+    3: [14350, 14608],
+    4: [18432, 37624],
+    5: [40142, 46443],
+    6: [47098, 54141],
+    7: [54487, 55143],
+    8: [55839, 55499],
+    9: [60232, 55862]
 }
 
 ue_map_example_1 = {
-    "UE0": [1382, 2609],
-    "UE1": [5794, 16233],
-    "UE2": [17950, 32893],
-    "UE3": [33135, 38070],
-    "UE4": [64248, 65104],
+    0: [1382, 2609],
+    1: [5794, 16233],
+    2: [64248, 65104],
+    3: [17950, 32893],
+    4: [33135, 38070],
 }
 
 
 ue_map_example_2 ={
-    "UE0": [16233, 32893]
+    0: [16233, 32893]
 }
 
-analysis_per_mean("cf", "1", ue_map=ue_map_example_2, overhead=0.95)
-#analysis_per_mean("cf", "5", ue_map=ue_map_example_1, overhead=0.95)
+#analysis_per_mean("cf", "1", ue_map=ue_map_example_2, overhead=0.95)
+analysis_per_mean("cf", "5", ue_map=ue_map_example_1, overhead=0.95)
 #analysis_per_mean("cf", "10", ue_map=ue_map_example, overhead=0.95)
