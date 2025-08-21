@@ -3,8 +3,8 @@ import glob
 import os
 
 def analysis_per_mean(scenario, rep):
-  base_input_dir = os.path.join("clean-files-ul", scenario, rep)
-  base_output_dir = os.path.join("clean-files-ul", "aggr")
+  base_input_dir = os.path.join("mac-throughput-latency", "clean-files-ul", scenario, rep)
+  base_output_dir = os.path.join("mac-throughput-latency", "clean-files-ul", "aggr")
 
   # Read all csv files in the directory
   files = sorted(glob.glob(base_input_dir + "/*.csv"))
@@ -38,6 +38,6 @@ analysis_per_mean("cb", "1")
 analysis_per_mean("cb", "5")
 analysis_per_mean("cb", "10")
 
-analysis_per_mean("cf", "1")
-analysis_per_mean("cf", "5")
-analysis_per_mean("cf", "10")  
+#analysis_per_mean("cf", "1")
+#analysis_per_mean("cf", "5")
+#analysis_per_mean("cf", "10")  
