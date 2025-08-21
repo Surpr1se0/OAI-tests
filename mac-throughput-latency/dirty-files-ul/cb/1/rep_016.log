@@ -1,0 +1,1015 @@
+[UTIL]: Setting the config -c file to /usr/local/etc/flexric/flexric.conf
+[UTIL]: Setting path -p for the shared libraries to /usr/local/lib/flexric/
+[xAapp]: Initializing ... 
+[xApp]: nearRT-RIC IP Address = 192.168.70.150, PORT = 36422
+[E2 AGENT]: Opening plugin from path = /usr/local/lib/flexric/libkpm_sm.so 
+[E2 AGENT]: Opening plugin from path = /usr/local/lib/flexric/libmac_sm.so 
+[E2 AGENT]: Opening plugin from path = /usr/local/lib/flexric/libpdcp_sm.so 
+[E2 AGENT]: Opening plugin from path = /usr/local/lib/flexric/libgtp_sm.so 
+[E2 AGENT]: Opening plugin from path = /usr/local/lib/flexric/librc_sm.so 
+[E2 AGENT]: Opening plugin from path = /usr/local/lib/flexric/libtc_sm.so 
+[E2 AGENT]: Opening plugin from path = /usr/local/lib/flexric/librlc_sm.so 
+[E2 AGENT]: Opening plugin from path = /usr/local/lib/flexric/libslice_sm.so 
+[NEAR-RIC]: Loading SM ID = 2 with def = ORAN-E2SM-KPM 
+[NEAR-RIC]: Loading SM ID = 142 with def = MAC_STATS_V0 
+[NEAR-RIC]: Loading SM ID = 144 with def = PDCP_STATS_V0 
+[NEAR-RIC]: Loading SM ID = 148 with def = GTP_STATS_V0 
+[NEAR-RIC]: Loading SM ID = 3 with def = ORAN-E2SM-RC 
+[NEAR-RIC]: Loading SM ID = 146 with def = TC_STATS_V0 
+[NEAR-RIC]: Loading SM ID = 143 with def = RLC_STATS_V0 
+[NEAR-RIC]: Loading SM ID = 145 with def = SLICE_STATS_V0 
+[xApp]: DB filename = /tmp/flexric/xapp_db 
+ [xApp]: E42 SETUP-REQUEST tx
+[xApp]: E42 SETUP-RESPONSE rx 
+[xApp]: xApp ID = 22 
+[xApp]: Registered E2 Nodes = 4 
+Connected E2 nodes = 4
+[xAPP] Registered node 0 ran func id = 2
+[xAPP] Registered node 0 ran func id = 3
+[xAPP] Registered node 0 ran func id = 142
+[xAPP] Registered node 0 ran func id = 143
+[xAPP] Registered node 0 ran func id = 144
+[xAPP] Registered node 0 ran func id = 145
+[xAPP] Registered node 0 ran func id = 146
+[xAPP] Registered node 0 ran func id = 148
+[xApp]: E42 RIC SUBSCRIPTION REQUEST tx RAN_FUNC_ID 144 RIC_REQ_ID 1 
+[xApp]: SUBSCRIPTION RESPONSE rx
+[xApp]: Successfully subscribed to RAN_FUNC_ID 144 
+[xAPP] Registered node 1 ran func id = 2
+[xAPP] Registered node 1 ran func id = 3
+[xAPP] Registered node 1 ran func id = 142
+[xAPP] Registered node 1 ran func id = 143
+[xAPP] Registered node 1 ran func id = 144
+[xAPP] Registered node 1 ran func id = 145
+[xAPP] Registered node 1 ran func id = 146
+[xAPP] Registered node 1 ran func id = 148
+[xAPP] Registered node 2 ran func id = 2
+[xAPP] Registered node 2 ran func id = 3
+[xAPP] Registered node 2 ran func id = 142
+[xAPP] Registered node 2 ran func id = 143
+[xAPP] Registered node 2 ran func id = 144
+[xAPP] Registered node 2 ran func id = 145
+[xAPP] Registered node 2 ran func id = 146
+[xAPP] Registered node 2 ran func id = 148
+[xApp]: E42 RIC SUBSCRIPTION REQUEST tx RAN_FUNC_ID 142 RIC_REQ_ID 2 
+3 ms | now=1755741070846886 us | PDCP ind_msg latency=70915499 us
+[xApp]: SUBSCRIPTION RESPONSE rx
+[xApp]: Successfully subscribed to RAN_FUNC_ID 142 
+[xAPP] Registered node 3 ran func id = 2
+[xAPP] Registered node 3 ran func id = 3
+[xAPP] Registered node 3 ran func id = 142
+[xAPP] Registered node 3 ran func id = 143
+[xAPP] Registered node 3 ran func id = 144
+[xAPP] Registered node 3 ran func id = 145
+[xAPP] Registered node 3 ran func id = 146
+[xAPP] Registered node 3 ran func id = 148
+[xApp]: E42 RIC SUBSCRIPTION REQUEST tx RAN_FUNC_ID 142 RIC_REQ_ID 3 
+[xApp]: SUBSCRIPTION RESPONSE rx
+[xApp]: Successfully subscribed to RAN_FUNC_ID 142 
+126 ms [UE 3210] UL Throughput = 0.34523 Mbps
+226 ms [UE 3210] UL Throughput = 0.83815 Mbps
+326 ms [UE 3210] UL Throughput = 0.70670 Mbps
+436 ms [UE 3210] UL Throughput = 0.07454 Mbps
+546 ms [UE 3210] UL Throughput = 0.34471 Mbps
+646 ms [UE 3210] UL Throughput = 0.08185 Mbps
+756 ms [UE 3210] UL Throughput = 0.68813 Mbps
+857 ms [UE 3210] UL Throughput = 0.00000 Mbps
+966 ms [UE 3210] UL Throughput = 0.34630 Mbps
+1029 ms | now=1755741071872758 us | PDCP ind_msg latency=70915315 us
+1076 ms [UE 3210] UL Throughput = 0.69107 Mbps
+1176 ms [UE 3210] UL Throughput = 0.83390 Mbps
+1286 ms [UE 3210] UL Throughput = 0.07492 Mbps
+1386 ms [UE 3210] UL Throughput = 0.75617 Mbps
+1496 ms [UE 3210] UL Throughput = 0.71644 Mbps
+1606 ms [UE 3210] UL Throughput = 0.38123 Mbps
+1716 ms [UE 3210] UL Throughput = 0.07471 Mbps
+1816 ms [UE 3210] UL Throughput = 0.00000 Mbps
+1926 ms [UE 3210] UL Throughput = 0.34489 Mbps
+2036 ms [UE 3210] UL Throughput = 0.34458 Mbps
+2053 ms | now=1755741072896616 us | PDCP ind_msg latency=70915224 us
+2136 ms [UE 3210] UL Throughput = 0.37877 Mbps
+2236 ms [UE 3210] UL Throughput = 0.37844 Mbps
+2336 ms [UE 3210] UL Throughput = 0.46077 Mbps
+2446 ms [UE 3210] UL Throughput = 0.41932 Mbps
+2546 ms [UE 3210] UL Throughput = 0.00000 Mbps
+2656 ms [UE 3210] UL Throughput = 0.64382 Mbps
+2756 ms [UE 3210] UL Throughput = 0.75540 Mbps
+2866 ms [UE 3210] UL Throughput = 0.76024 Mbps
+2976 ms [UE 3210] UL Throughput = 0.07443 Mbps
+3076 ms [UE 3210] UL Throughput = 0.75719 Mbps
+3078 ms | now=1755741073921651 us | PDCP ind_msg latency=70915266 us
+3186 ms [UE 3210] UL Throughput = 0.71001 Mbps
+3296 ms [UE 3210] UL Throughput = 0.41887 Mbps
+3396 ms [UE 3210] UL Throughput = 0.45420 Mbps
+3506 ms [UE 3210] UL Throughput = 0.00000 Mbps
+3616 ms [UE 3210] UL Throughput = 0.68834 Mbps
+3726 ms [UE 3210] UL Throughput = 0.64312 Mbps
+3826 ms [UE 3210] UL Throughput = 0.00000 Mbps
+3926 ms [UE 3210] UL Throughput = 0.00000 Mbps
+4036 ms [UE 3210] UL Throughput = 0.76475 Mbps
+4102 ms | now=1755741074945797 us | PDCP ind_msg latency=70915374 us
+4146 ms [UE 3210] UL Throughput = 0.72759 Mbps
+4246 ms [UE 3210] UL Throughput = 0.45974 Mbps
+4357 ms [UE 3210] UL Throughput = 0.29717 Mbps
+4466 ms [UE 3210] UL Throughput = 0.41949 Mbps
+4566 ms [UE 3210] UL Throughput = 0.83946 Mbps
+4676 ms [UE 3210] UL Throughput = 0.34451 Mbps
+4786 ms [UE 3210] UL Throughput = 0.00000 Mbps
+4897 ms [UE 3210] UL Throughput = 0.71347 Mbps
+5006 ms [UE 3210] UL Throughput = 0.34562 Mbps
+5116 ms [UE 3210] UL Throughput = 0.41999 Mbps
+5127 ms | now=1755741075970724 us | PDCP ind_msg latency=70915326 us
+5217 ms [UE 3210] UL Throughput = 0.00000 Mbps
+5326 ms [UE 3210] UL Throughput = 0.34743 Mbps
+5436 ms [UE 3210] UL Throughput = 0.29766 Mbps
+5546 ms [UE 3210] UL Throughput = 0.68854 Mbps
+5656 ms [UE 3210] UL Throughput = 0.00000 Mbps
+5756 ms [UE 3210] UL Throughput = 0.37862 Mbps
+5866 ms [UE 3210] UL Throughput = 0.76402 Mbps
+5976 ms [UE 3210] UL Throughput = 0.64428 Mbps
+6076 ms [UE 3210] UL Throughput = 0.00000 Mbps
+6152 ms | now=1755741076995776 us | PDCP ind_msg latency=70915388 us
+6186 ms [UE 3210] UL Throughput = 0.72746 Mbps
+6296 ms [UE 3210] UL Throughput = 0.76318 Mbps
+6406 ms [UE 3210] UL Throughput = 0.41892 Mbps
+6506 ms [UE 3210] UL Throughput = 0.00000 Mbps
+6616 ms [UE 3210] UL Throughput = 0.71788 Mbps
+6726 ms [UE 3210] UL Throughput = 0.68873 Mbps
+6836 ms [UE 3210] UL Throughput = 0.42037 Mbps
+6936 ms [UE 3210] UL Throughput = 0.08175 Mbps
+7037 ms [UE 3210] UL Throughput = 0.00000 Mbps
+7146 ms [UE 3210] UL Throughput = 0.64518 Mbps
+7182 ms | now=1755741078025888 us | PDCP ind_msg latency=70916503 us
+7246 ms [UE 3210] UL Throughput = 0.75701 Mbps
+7356 ms [UE 3210] UL Throughput = 0.07447 Mbps
+7466 ms [UE 3210] UL Throughput = 0.68904 Mbps
+7576 ms [UE 3210] UL Throughput = 0.76435 Mbps
+7677 ms [UE 3210] UL Throughput = 0.78536 Mbps
+7786 ms [UE 3210] UL Throughput = 0.07488 Mbps
+7886 ms [UE 3210] UL Throughput = 0.37821 Mbps
+7986 ms [UE 3210] UL Throughput = 0.37884 Mbps
+8087 ms [UE 3210] UL Throughput = 0.37618 Mbps
+8196 ms [UE 3210] UL Throughput = 0.34603 Mbps
+8205 ms | now=1755741079048549 us | PDCP ind_msg latency=70916165 us
+8297 ms [UE 3210] UL Throughput = 0.78278 Mbps
+8406 ms [UE 3210] UL Throughput = 0.31014 Mbps
+8516 ms [UE 3210] UL Throughput = 0.76359 Mbps
+8626 ms [UE 3210] UL Throughput = 0.07457 Mbps
+8726 ms [UE 3210] UL Throughput = 0.75561 Mbps
+8836 ms [UE 3210] UL Throughput = 0.64398 Mbps
+8936 ms [UE 3210] UL Throughput = 0.46051 Mbps
+9046 ms [UE 3210] UL Throughput = 0.07459 Mbps
+9146 ms [UE 3210] UL Throughput = 0.37721 Mbps
+9231 ms | now=1755741080074598 us | PDCP ind_msg latency=70917203 us
+9256 ms [UE 3210] UL Throughput = 0.69051 Mbps
+9366 ms [UE 3210] UL Throughput = 0.64250 Mbps
+9466 ms [UE 3210] UL Throughput = 0.08188 Mbps
+9576 ms [UE 3210] UL Throughput = 0.69021 Mbps
+9676 ms [UE 3210] UL Throughput = 0.46050 Mbps
+9776 ms [UE 3210] UL Throughput = 0.08190 Mbps
+9877 ms [UE 3210] UL Throughput = 0.00000 Mbps
+9977 ms [UE 3210] UL Throughput = 0.70626 Mbps
+10086 ms [UE 3210] UL Throughput = 0.69006 Mbps
+10186 ms [UE 3210] UL Throughput = 0.08190 Mbps
+10255 ms | now=1755741081098688 us | PDCP ind_msg latency=70915307 us
+10286 ms [UE 3210] UL Throughput = 0.75785 Mbps
+10396 ms [UE 3210] UL Throughput = 0.76598 Mbps
+10496 ms [UE 3210] UL Throughput = 0.45956 Mbps
+10606 ms [UE 3210] UL Throughput = 0.30824 Mbps
+10716 ms [UE 3210] UL Throughput = 0.73611 Mbps
+10816 ms [UE 3210] UL Throughput = 0.83790 Mbps
+10926 ms [UE 3210] UL Throughput = 0.41840 Mbps
+11036 ms [UE 3210] UL Throughput = 0.34538 Mbps
+11146 ms [UE 3210] UL Throughput = 0.72643 Mbps
+11246 ms [UE 3210] UL Throughput = 0.83663 Mbps
+11280 ms | now=1755741082123664 us | PDCP ind_msg latency=70915276 us
+11356 ms [UE 3210] UL Throughput = 0.76577 Mbps
+11456 ms [UE 3210] UL Throughput = 0.00000 Mbps
+11556 ms [UE 3210] UL Throughput = 0.83857 Mbps
+11666 ms [UE 3210] UL Throughput = 0.72758 Mbps
+11776 ms [UE 3210] UL Throughput = 0.76309 Mbps
+11876 ms [UE 3210] UL Throughput = 0.00000 Mbps
+11976 ms [UE 3210] UL Throughput = 0.83901 Mbps
+12077 ms [UE 3210] UL Throughput = 0.83713 Mbps
+12187 ms [UE 3210] UL Throughput = 0.07458 Mbps
+12296 ms [UE 3210] UL Throughput = 0.65401 Mbps
+12308 ms | now=1755741083151660 us | PDCP ind_msg latency=70916268 us
+12396 ms [UE 3210] UL Throughput = 0.83888 Mbps
+12497 ms [UE 3210] UL Throughput = 0.83323 Mbps
+12606 ms [UE 3210] UL Throughput = 0.07515 Mbps
+12716 ms [UE 3210] UL Throughput = 0.68839 Mbps
+12826 ms [UE 3210] UL Throughput = 0.72726 Mbps
+12926 ms [UE 3210] UL Throughput = 0.80814 Mbps
+13036 ms [UE 3210] UL Throughput = 0.41826 Mbps
+13146 ms [UE 3210] UL Throughput = 0.34506 Mbps
+13256 ms [UE 3210] UL Throughput = 0.76184 Mbps
+13330 ms | now=1755741084173771 us | PDCP ind_msg latency=70915391 us
+13366 ms [UE 3210] UL Throughput = 0.72715 Mbps
+13467 ms [UE 3210] UL Throughput = 0.08163 Mbps
+13577 ms [UE 3210] UL Throughput = 0.68568 Mbps
+13686 ms [UE 3210] UL Throughput = 0.77032 Mbps
+13796 ms [UE 3210] UL Throughput = 0.76375 Mbps
+13897 ms [UE 3210] UL Throughput = 0.45949 Mbps
+14006 ms [UE 3210] UL Throughput = 0.30879 Mbps
+14106 ms [UE 3210] UL Throughput = 0.83769 Mbps
+14216 ms [UE 3210] UL Throughput = 0.76366 Mbps
+14316 ms [UE 3210] UL Throughput = 0.08178 Mbps
+14354 ms | now=1755741085197736 us | PDCP ind_msg latency=70915357 us
+14416 ms [UE 3210] UL Throughput = 0.75756 Mbps
+14526 ms [UE 3210] UL Throughput = 0.72844 Mbps
+14626 ms [UE 3210] UL Throughput = 0.83828 Mbps
+14736 ms [UE 3210] UL Throughput = 0.07453 Mbps
+14846 ms [UE 3210] UL Throughput = 0.68946 Mbps
+14946 ms [UE 3210] UL Throughput = 0.83927 Mbps
+15046 ms [UE 3210] UL Throughput = 0.79866 Mbps
+15147 ms [UE 3210] UL Throughput = 0.00000 Mbps
+15256 ms [UE 3210] UL Throughput = 0.73941 Mbps
+15356 ms [UE 3210] UL Throughput = 0.83828 Mbps
+15379 ms | now=1755741086223050 us | PDCP ind_msg latency=70915666 us
+15466 ms [UE 3210] UL Throughput = 0.76364 Mbps
+15566 ms [UE 3210] UL Throughput = 0.00000 Mbps
+15677 ms [UE 3210] UL Throughput = 0.72525 Mbps
+15786 ms [UE 3210] UL Throughput = 0.76628 Mbps
+15886 ms [UE 3210] UL Throughput = 0.83865 Mbps
+15987 ms [UE 3210] UL Throughput = 0.08158 Mbps
+16096 ms [UE 3210] UL Throughput = 0.69320 Mbps
+16196 ms [UE 3210] UL Throughput = 0.79868 Mbps
+16296 ms [UE 3210] UL Throughput = 0.46032 Mbps
+16405 ms | now=1755741087249070 us | PDCP ind_msg latency=70915684 us
+16406 ms [UE 3210] UL Throughput = 0.34447 Mbps
+16516 ms [UE 3210] UL Throughput = 0.76559 Mbps
+16617 ms [UE 3210] UL Throughput = 0.83063 Mbps
+16726 ms [UE 3210] UL Throughput = 0.73290 Mbps
+16827 ms [UE 3210] UL Throughput = 0.00000 Mbps
+16936 ms [UE 3210] UL Throughput = 0.76685 Mbps
+17036 ms [UE 3210] UL Throughput = 0.83917 Mbps
+17136 ms [UE 3210] UL Throughput = 0.46030 Mbps
+17236 ms [UE 3210] UL Throughput = 0.37891 Mbps
+17347 ms [UE 3210] UL Throughput = 0.72484 Mbps
+17430 ms | now=1755741088273930 us | PDCP ind_msg latency=70915505 us
+17456 ms [UE 3210] UL Throughput = 0.73595 Mbps
+17566 ms [UE 3210] UL Throughput = 0.76389 Mbps
+17676 ms [UE 3210] UL Throughput = 0.07463 Mbps
+17776 ms [UE 3210] UL Throughput = 0.75734 Mbps
+17876 ms [UE 3210] UL Throughput = 0.79755 Mbps
+17986 ms [UE 3210] UL Throughput = 0.76405 Mbps
+18086 ms [UE 3210] UL Throughput = 0.00000 Mbps
+18187 ms [UE 3210] UL Throughput = 0.83744 Mbps
+18296 ms [UE 3210] UL Throughput = 0.76790 Mbps
+18397 ms [UE 3210] UL Throughput = 0.45848 Mbps
+18455 ms | now=1755741089299012 us | PDCP ind_msg latency=70915585 us
+18497 ms [UE 3210] UL Throughput = 0.33746 Mbps
+18606 ms [UE 3210] UL Throughput = 0.76741 Mbps
+18717 ms [UE 3210] UL Throughput = 0.76173 Mbps
+18826 ms [UE 3210] UL Throughput = 0.00000 Mbps
+18927 ms [UE 3210] UL Throughput = 0.00000 Mbps
+19036 ms [UE 3210] UL Throughput = 0.72859 Mbps
+19137 ms [UE 3210] UL Throughput = 0.83669 Mbps
+19246 ms [UE 3210] UL Throughput = 0.42042 Mbps
+19346 ms [UE 3210] UL Throughput = 0.37839 Mbps
+19456 ms [UE 3210] UL Throughput = 0.76316 Mbps
+19480 ms | now=1755741090323688 us | PDCP ind_msg latency=70915298 us
+19566 ms [UE 3210] UL Throughput = 0.72581 Mbps
+19676 ms [UE 3210] UL Throughput = 0.73799 Mbps
+19776 ms [UE 3210] UL Throughput = 0.00000 Mbps
+19876 ms [UE 3210] UL Throughput = 0.83840 Mbps
+19986 ms [UE 3210] UL Throughput = 0.76523 Mbps
+20086 ms [UE 3210] UL Throughput = 0.45960 Mbps
+20196 ms [UE 3210] UL Throughput = 0.30806 Mbps
+20296 ms [UE 3210] UL Throughput = 0.83822 Mbps
+20406 ms [UE 3210] UL Throughput = 0.76439 Mbps
+20506 ms | now=1755741091349155 us | PDCP ind_msg latency=70916742 us
+20507 ms [UE 3210] UL Throughput = 0.45948 Mbps
+20607 ms [UE 3210] UL Throughput = 0.37855 Mbps
+20716 ms [UE 3210] UL Throughput = 0.72907 Mbps
+20827 ms [UE 3210] UL Throughput = 0.76137 Mbps
+20936 ms [UE 3210] UL Throughput = 0.76480 Mbps
+21046 ms [UE 3210] UL Throughput = 0.00000 Mbps
+21147 ms [UE 3210] UL Throughput = 0.83659 Mbps
+21256 ms [UE 3210] UL Throughput = 0.72894 Mbps
+21366 ms [UE 3210] UL Throughput = 0.76341 Mbps
+21466 ms [UE 3210] UL Throughput = 0.08176 Mbps
+21528 ms | now=1755741092371873 us | PDCP ind_msg latency=70915488 us
+21576 ms [UE 3210] UL Throughput = 0.68986 Mbps
+21686 ms [UE 3210] UL Throughput = 0.76320 Mbps
+21786 ms [UE 3210] UL Throughput = 0.79830 Mbps
+21896 ms [UE 3210] UL Throughput = 0.39182 Mbps
+21997 ms [UE 3210] UL Throughput = 0.37692 Mbps
+22106 ms [UE 3210] UL Throughput = 0.76636 Mbps
+22216 ms [UE 3210] UL Throughput = 0.76404 Mbps
+22317 ms [UE 3210] UL Throughput = 0.79737 Mbps
+22426 ms [UE 3210] UL Throughput = 0.07469 Mbps
+22526 ms [UE 3210] UL Throughput = 0.75675 Mbps
+22552 ms | now=1755741093396111 us | PDCP ind_msg latency=70915722 us
+22636 ms [UE 3210] UL Throughput = 0.76287 Mbps
+22746 ms [UE 3210] UL Throughput = 0.76431 Mbps
+22856 ms [UE 3210] UL Throughput = 0.00000 Mbps
+22956 ms [UE 3210] UL Throughput = 0.79648 Mbps
+23066 ms [UE 3210] UL Throughput = 0.76499 Mbps
+23166 ms [UE 3210] UL Throughput = 0.83901 Mbps
+23276 ms [UE 3210] UL Throughput = 0.41854 Mbps
+23386 ms [UE 3210] UL Throughput = 0.34535 Mbps
+23486 ms [UE 3210] UL Throughput = 0.79647 Mbps
+23577 ms | now=1755741094420323 us | PDCP ind_msg latency=70915861 us
+23597 ms [UE 3210] UL Throughput = 0.00000 Mbps
+23706 ms [UE 3210] UL Throughput = 0.76541 Mbps
+23807 ms [UE 3210] UL Throughput = 0.00000 Mbps
+23916 ms [UE 3210] UL Throughput = 0.76478 Mbps
+24016 ms [UE 3210] UL Throughput = 0.79901 Mbps
+24126 ms [UE 3210] UL Throughput = 0.73535 Mbps
+24236 ms [UE 3210] UL Throughput = 0.07467 Mbps
+24336 ms [UE 3210] UL Throughput = 0.75671 Mbps
+24436 ms [UE 3210] UL Throughput = 0.83924 Mbps
+24536 ms [UE 3210] UL Throughput = 0.46057 Mbps
+24600 ms | now=1755741095443918 us | PDCP ind_msg latency=70915531 us
+24646 ms [UE 3210] UL Throughput = 0.30745 Mbps
+24756 ms [UE 3210] UL Throughput = 0.76469 Mbps
+24866 ms [UE 3210] UL Throughput = 0.76397 Mbps
+24966 ms [UE 3210] UL Throughput = 0.83797 Mbps
+25076 ms [UE 3210] UL Throughput = 0.07439 Mbps
+25186 ms [UE 3210] UL Throughput = 0.65223 Mbps
+25287 ms [UE 3210] UL Throughput = 0.83927 Mbps
+25387 ms [UE 3210] UL Throughput = 0.83867 Mbps
+25487 ms [UE 3210] UL Throughput = 0.08177 Mbps
+25596 ms [UE 3210] UL Throughput = 0.69196 Mbps
+25626 ms | now=1755741096469481 us | PDCP ind_msg latency=70916100 us
+25706 ms [UE 3210] UL Throughput = 0.72637 Mbps
+25806 ms [UE 3210] UL Throughput = 0.83951 Mbps
+25916 ms [UE 3210] UL Throughput = 0.07453 Mbps
+26016 ms [UE 3210] UL Throughput = 0.75694 Mbps
+26117 ms [UE 3210] UL Throughput = 0.83555 Mbps
+26226 ms [UE 3210] UL Throughput = 0.73162 Mbps
+26326 ms [UE 3210] UL Throughput = 0.00000 Mbps
+26427 ms [UE 3210] UL Throughput = 0.80814 Mbps
+26536 ms [UE 3210] UL Throughput = 0.76464 Mbps
+26646 ms [UE 3210] UL Throughput = 0.76550 Mbps
+26649 ms | now=1755741097492790 us | PDCP ind_msg latency=70915398 us
+26756 ms [UE 3210] UL Throughput = 0.07437 Mbps
+26856 ms [UE 3210] UL Throughput = 0.71612 Mbps
+26957 ms [UE 3210] UL Throughput = 0.83572 Mbps
+27067 ms [UE 3210] UL Throughput = 0.76476 Mbps
+27176 ms [UE 3210] UL Throughput = 0.07480 Mbps
+27276 ms [UE 3210] UL Throughput = 0.75718 Mbps
+27376 ms [UE 3210] UL Throughput = 0.79843 Mbps
+27476 ms [UE 3210] UL Throughput = 0.83914 Mbps
+27577 ms [UE 3210] UL Throughput = 0.00000 Mbps
+27674 ms | now=1755741098517947 us | PDCP ind_msg latency=70915558 us
+27686 ms [UE 3210] UL Throughput = 0.76787 Mbps
+27796 ms [UE 3210] UL Throughput = 0.76382 Mbps
+27896 ms [UE 3210] UL Throughput = 0.46064 Mbps
+27997 ms [UE 3210] UL Throughput = 0.33769 Mbps
+28097 ms [UE 3210] UL Throughput = 0.83917 Mbps
+28197 ms [UE 3210] UL Throughput = 0.83463 Mbps
+28307 ms [UE 3210] UL Throughput = 0.00000 Mbps
+28416 ms [UE 3210] UL Throughput = 0.76603 Mbps
+28516 ms [UE 3210] UL Throughput = 0.79721 Mbps
+28617 ms [UE 3210] UL Throughput = 0.08186 Mbps
+28698 ms | now=1755741099541960 us | PDCP ind_msg latency=70915525 us
+28717 ms [UE 3210] UL Throughput = 0.72647 Mbps
+28826 ms [UE 3210] UL Throughput = 0.76437 Mbps
+28936 ms [UE 3210] UL Throughput = 0.76455 Mbps
+29046 ms [UE 3210] UL Throughput = 0.41969 Mbps
+29146 ms [UE 3210] UL Throughput = 0.33770 Mbps
+29246 ms [UE 3210] UL Throughput = 0.83837 Mbps
+29357 ms [UE 3210] UL Throughput = 0.76289 Mbps
+29457 ms [UE 3210] UL Throughput = 0.00000 Mbps
+29567 ms [UE 3210] UL Throughput = 0.76391 Mbps
+29676 ms [UE 3210] UL Throughput = 0.72765 Mbps
+29723 ms | now=1755741100566313 us | PDCP ind_msg latency=70916875 us
+29776 ms [UE 3210] UL Throughput = 0.83894 Mbps
+29886 ms [UE 3210] UL Throughput = 0.07457 Mbps
+29987 ms [UE 3210] UL Throughput = 0.75665 Mbps
+30087 ms [UE 3210] UL Throughput = 0.83826 Mbps
+30197 ms [UE 3210] UL Throughput = 0.72754 Mbps
+30297 ms [UE 3210] UL Throughput = 0.00000 Mbps
+30406 ms [UE 3210] UL Throughput = 0.76468 Mbps
+30507 ms [UE 3210] UL Throughput = 0.83857 Mbps
+30616 ms [UE 3210] UL Throughput = 0.76612 Mbps
+30716 ms [UE 3210] UL Throughput = 0.08176 Mbps
+30748 ms | now=1755741101591229 us | PDCP ind_msg latency=70915811 us
+30826 ms [UE 3210] UL Throughput = 0.65154 Mbps
+30937 ms [UE 3210] UL Throughput = 0.73209 Mbps
+31046 ms [UE 3210] UL Throughput = 0.76758 Mbps
+31147 ms [UE 3210] UL Throughput = 0.08182 Mbps
+31247 ms [UE 3210] UL Throughput = 0.75461 Mbps
+31357 ms [UE 3210] UL Throughput = 0.72847 Mbps
+31466 ms [UE 3210] UL Throughput = 0.76536 Mbps
+31566 ms [UE 3210] UL Throughput = 0.08184 Mbps
+31676 ms [UE 3210] UL Throughput = 0.68962 Mbps
+31772 ms | now=1755741102616127 us | PDCP ind_msg latency=70915688 us
+31776 ms [UE 3210] UL Throughput = 0.83877 Mbps
+31877 ms [UE 3210] UL Throughput = 0.46050 Mbps
+31977 ms [UE 3210] UL Throughput = 0.33767 Mbps
+32087 ms [UE 3210] UL Throughput = 0.76131 Mbps
+32196 ms [UE 3210] UL Throughput = 0.76769 Mbps
+32306 ms [UE 3210] UL Throughput = 0.76312 Mbps
+32407 ms [UE 3210] UL Throughput = 0.00000 Mbps
+32516 ms [UE 3210] UL Throughput = 0.72873 Mbps
+32617 ms [UE 3210] UL Throughput = 0.83498 Mbps
+32727 ms [UE 3210] UL Throughput = 0.76023 Mbps
+32797 ms | now=1755741103640987 us | PDCP ind_msg latency=70915550 us
+32836 ms [UE 3210] UL Throughput = 0.07510 Mbps
+32946 ms [UE 3210] UL Throughput = 0.68993 Mbps
+33046 ms [UE 3210] UL Throughput = 0.79859 Mbps
+33146 ms [UE 3210] UL Throughput = 0.42979 Mbps
+33247 ms [UE 3210] UL Throughput = 0.37720 Mbps
+33356 ms [UE 3210] UL Throughput = 0.76684 Mbps
+33457 ms [UE 3210] UL Throughput = 0.83825 Mbps
+33567 ms [UE 3210] UL Throughput = 0.41907 Mbps
+33677 ms [UE 3210] UL Throughput = 0.30758 Mbps
+33777 ms [UE 3210] UL Throughput = 0.83634 Mbps
+33823 ms | now=1755741104666932 us | PDCP ind_msg latency=70916398 us
+33877 ms [UE 3210] UL Throughput = 0.83937 Mbps
+33987 ms [UE 3210] UL Throughput = 0.42033 Mbps
+34096 ms [UE 3210] UL Throughput = 0.34573 Mbps
+34197 ms [UE 3210] UL Throughput = 0.79667 Mbps
+34306 ms [UE 3210] UL Throughput = 0.76531 Mbps
+34406 ms [UE 3210] UL Throughput = 0.46033 Mbps
+34507 ms [UE 3210] UL Throughput = 0.37855 Mbps
+34607 ms [UE 3210] UL Throughput = 0.83826 Mbps
+34716 ms [UE 3210] UL Throughput = 0.72808 Mbps
+34826 ms [UE 3210] UL Throughput = 0.07447 Mbps
+34848 ms | now=1755741105692077 us | PDCP ind_msg latency=70915684 us
+34937 ms [UE 3210] UL Throughput = 0.68802 Mbps
+35047 ms [UE 3210] UL Throughput = 0.76406 Mbps
+35147 ms [UE 3210] UL Throughput = 0.46028 Mbps
+35257 ms [UE 3210] UL Throughput = 0.34484 Mbps
+35357 ms [UE 3210] UL Throughput = 0.79898 Mbps
+35466 ms [UE 3210] UL Throughput = 0.73728 Mbps
+35566 ms [UE 3210] UL Throughput = 0.00000 Mbps
+35667 ms [UE 3210] UL Throughput = 0.83496 Mbps
+35777 ms [UE 3210] UL Throughput = 0.76606 Mbps
+35872 ms | now=1755741106716083 us | PDCP ind_msg latency=70915701 us
+35887 ms [UE 3210] UL Throughput = 0.72666 Mbps
+35997 ms [UE 3210] UL Throughput = 0.07411 Mbps
+36107 ms [UE 3210] UL Throughput = 0.69059 Mbps
+36216 ms [UE 3210] UL Throughput = 0.76646 Mbps
+36317 ms [UE 3210] UL Throughput = 0.83905 Mbps
+36426 ms [UE 3210] UL Throughput = 0.07465 Mbps
+36527 ms [UE 3210] UL Throughput = 0.71518 Mbps
+36636 ms [UE 3210] UL Throughput = 0.76478 Mbps
+36736 ms [UE 3210] UL Throughput = 0.83901 Mbps
+36846 ms [UE 3210] UL Throughput = 0.07446 Mbps
+36897 ms | now=1755741107741020 us | PDCP ind_msg latency=70915583 us
+36957 ms [UE 3210] UL Throughput = 0.68825 Mbps
+37067 ms [UE 3210] UL Throughput = 0.72692 Mbps
+37177 ms [UE 3210] UL Throughput = 0.76340 Mbps
+37286 ms [UE 3210] UL Throughput = 0.76536 Mbps
+37387 ms [UE 3210] UL Throughput = 0.00000 Mbps
+37496 ms [UE 3210] UL Throughput = 0.76385 Mbps
+37597 ms [UE 3210] UL Throughput = 0.79567 Mbps
+37707 ms [UE 3210] UL Throughput = 0.38976 Mbps
+37817 ms [UE 3210] UL Throughput = 0.34572 Mbps
+37923 ms | now=1755741108766322 us | PDCP ind_msg latency=70915879 us
+37927 ms [UE 3210] UL Throughput = 0.76348 Mbps
+38037 ms [UE 3210] UL Throughput = 0.76588 Mbps
+38137 ms [UE 3210] UL Throughput = 0.79594 Mbps
+38247 ms [UE 3210] UL Throughput = 0.07453 Mbps
+38347 ms [UE 3210] UL Throughput = 0.75638 Mbps
+38457 ms [UE 3210] UL Throughput = 0.76526 Mbps
+38557 ms [UE 3210] UL Throughput = 0.83940 Mbps
+38666 ms [UE 3210] UL Throughput = 0.07472 Mbps
+38767 ms [UE 3210] UL Throughput = 0.71363 Mbps
+38876 ms [UE 3210] UL Throughput = 0.76698 Mbps
+38947 ms | now=1755741109790674 us | PDCP ind_msg latency=70917283 us
+38977 ms [UE 3210] UL Throughput = 0.45711 Mbps
+39086 ms [UE 3210] UL Throughput = 0.34721 Mbps
+39187 ms [UE 3210] UL Throughput = 0.83679 Mbps
+39297 ms [UE 3210] UL Throughput = 0.72662 Mbps
+39407 ms [UE 3210] UL Throughput = 0.41942 Mbps
+39517 ms [UE 3210] UL Throughput = 0.41928 Mbps
+39617 ms [UE 3210] UL Throughput = 0.75576 Mbps
+39726 ms [UE 3210] UL Throughput = 0.76704 Mbps
+39827 ms [UE 3210] UL Throughput = 0.79374 Mbps
+39937 ms [UE 3210] UL Throughput = 0.07479 Mbps
+39972 ms | now=1755741110815347 us | PDCP ind_msg latency=70915957 us
+40037 ms [UE 3210] UL Throughput = 0.72616 Mbps
+40137 ms [UE 3210] UL Throughput = 0.83541 Mbps
+40247 ms [UE 3210] UL Throughput = 0.76738 Mbps
+40347 ms [UE 3210] UL Throughput = 0.00000 Mbps
+40456 ms [UE 3210] UL Throughput = 0.72898 Mbps
+40556 ms [UE 3210] UL Throughput = 0.83947 Mbps
+40657 ms [UE 3210] UL Throughput = 0.46031 Mbps
+40757 ms [UE 3210] UL Throughput = 0.37672 Mbps
+40866 ms [UE 3210] UL Throughput = 0.76962 Mbps
+40967 ms [UE 3210] UL Throughput = 0.79632 Mbps
+40995 ms | now=1755741111838212 us | PDCP ind_msg latency=70915827 us
+41077 ms [UE 3210] UL Throughput = 0.07449 Mbps
+41187 ms [UE 3210] UL Throughput = 0.34381 Mbps
+41297 ms [UE 3210] UL Throughput = 0.69035 Mbps
+41406 ms [UE 3210] UL Throughput = 0.34529 Mbps
+41507 ms [UE 3210] UL Throughput = 0.08169 Mbps
+41617 ms [UE 3210] UL Throughput = 0.29814 Mbps
+41726 ms [UE 3210] UL Throughput = 0.34504 Mbps
+41827 ms [UE 3210] UL Throughput = 0.75520 Mbps
+41936 ms [UE 3210] UL Throughput = 0.34570 Mbps
+42021 ms | now=1755741112864244 us | PDCP ind_msg latency=70915863 us
+42036 ms [UE 3210] UL Throughput = 0.37873 Mbps
+42137 ms [UE 3210] UL Throughput = 0.78771 Mbps
+42237 ms [UE 3210] UL Throughput = 0.00000 Mbps
+42346 ms [UE 3210] UL Throughput = 0.42079 Mbps
+42447 ms [UE 3210] UL Throughput = 0.00000 Mbps
+42547 ms [UE 3210] UL Throughput = 0.79892 Mbps
+42656 ms [UE 3210] UL Throughput = 0.64325 Mbps
+42757 ms [UE 3210] UL Throughput = 0.46047 Mbps
+42867 ms [UE 3210] UL Throughput = 0.00000 Mbps
+42977 ms [UE 3210] UL Throughput = 0.76298 Mbps
+43045 ms | now=1755741113888992 us | PDCP ind_msg latency=70915613 us
+43086 ms [UE 3210] UL Throughput = 0.34512 Mbps
+43196 ms [UE 3210] UL Throughput = 0.71680 Mbps
+43297 ms [UE 3210] UL Throughput = 0.00000 Mbps
+43397 ms [UE 3210] UL Throughput = 0.37882 Mbps
+43507 ms [UE 3210] UL Throughput = 0.07425 Mbps
+43617 ms [UE 3210] UL Throughput = 0.34487 Mbps
+43727 ms [UE 3210] UL Throughput = 0.00000 Mbps
+43837 ms [UE 3210] UL Throughput = 0.34464 Mbps
+43947 ms [UE 3210] UL Throughput = 0.68809 Mbps
+44056 ms [UE 3210] UL Throughput = 0.76582 Mbps
+44070 ms | now=1755741114913528 us | PDCP ind_msg latency=70916005 us
+44156 ms [UE 3210] UL Throughput = 0.08186 Mbps
+44257 ms [UE 3210] UL Throughput = 0.75351 Mbps
+44366 ms [UE 3210] UL Throughput = 0.72088 Mbps
+44467 ms [UE 3210] UL Throughput = 0.08173 Mbps
+44577 ms [UE 3210] UL Throughput = 0.07449 Mbps
+44687 ms [UE 3210] UL Throughput = 0.68945 Mbps
+44797 ms [UE 3210] UL Throughput = 0.65058 Mbps
+44897 ms [UE 3210] UL Throughput = 0.78743 Mbps
+45007 ms [UE 3210] UL Throughput = 0.07466 Mbps
+45095 ms | now=1755741115938507 us | PDCP ind_msg latency=70916063 us
+45107 ms [UE 3210] UL Throughput = 0.37733 Mbps
+45217 ms [UE 3210] UL Throughput = 0.42094 Mbps
+45327 ms [UE 3210] UL Throughput = 0.68936 Mbps
+45427 ms [UE 3210] UL Throughput = 0.00000 Mbps
+45536 ms [UE 3210] UL Throughput = 0.64499 Mbps
+45637 ms [UE 3210] UL Throughput = 0.83841 Mbps
+45737 ms [UE 3210] UL Throughput = 0.08180 Mbps
+45847 ms [UE 3210] UL Throughput = 0.34465 Mbps
+45956 ms [UE 3210] UL Throughput = 0.07460 Mbps
+46057 ms [UE 3210] UL Throughput = 0.70639 Mbps
+46119 ms | now=1755741116962193 us | PDCP ind_msg latency=70915808 us
+46157 ms [UE 3210] UL Throughput = 0.00000 Mbps
+46267 ms [UE 3210] UL Throughput = 0.68992 Mbps
+46377 ms [UE 3210] UL Throughput = 0.76348 Mbps
+46487 ms [UE 3210] UL Throughput = 0.07458 Mbps
+46597 ms [UE 3210] UL Throughput = 0.37238 Mbps
+46697 ms [UE 3210] UL Throughput = 0.00000 Mbps
+46807 ms [UE 3210] UL Throughput = 0.34547 Mbps
+46917 ms [UE 3210] UL Throughput = 0.68932 Mbps
+47026 ms [UE 3210] UL Throughput = 0.76423 Mbps
+47127 ms [UE 3210] UL Throughput = 0.45940 Mbps
+47144 ms | now=1755741117987540 us | PDCP ind_msg latency=70916047 us
+47236 ms [UE 3210] UL Throughput = 0.29900 Mbps
+47337 ms [UE 3210] UL Throughput = 0.75672 Mbps
+47437 ms [UE 3210] UL Throughput = 0.46071 Mbps
+47547 ms [UE 3210] UL Throughput = 0.07432 Mbps
+47647 ms [UE 3210] UL Throughput = 0.00000 Mbps
+47757 ms [UE 3210] UL Throughput = 0.64429 Mbps
+47867 ms [UE 3210] UL Throughput = 0.68926 Mbps
+47967 ms [UE 3210] UL Throughput = 0.00000 Mbps
+48077 ms [UE 3210] UL Throughput = 0.07448 Mbps
+48167 ms | now=1755741119011141 us | PDCP ind_msg latency=70915705 us
+48177 ms [UE 3210] UL Throughput = 0.37883 Mbps
+48277 ms [UE 3210] UL Throughput = 0.46061 Mbps
+48377 ms [UE 3210] UL Throughput = 0.00000 Mbps
+48487 ms [UE 3210] UL Throughput = 0.68726 Mbps
+48597 ms [UE 3210] UL Throughput = 0.42075 Mbps
+48697 ms [UE 3210] UL Throughput = 0.83876 Mbps
+48797 ms [UE 3210] UL Throughput = 0.00000 Mbps
+48897 ms [UE 3210] UL Throughput = 0.70625 Mbps
+49006 ms [UE 3210] UL Throughput = 0.65421 Mbps
+49107 ms [UE 3210] UL Throughput = 0.45925 Mbps
+49192 ms | now=1755741120035240 us | PDCP ind_msg latency=70915823 us
+49217 ms [UE 3210] UL Throughput = 0.07412 Mbps
+49327 ms [UE 3210] UL Throughput = 0.34688 Mbps
+49427 ms [UE 3210] UL Throughput = 0.70544 Mbps
+49537 ms [UE 3210] UL Throughput = 0.68963 Mbps
+49647 ms [UE 3210] UL Throughput = 0.41906 Mbps
+49747 ms [UE 3210] UL Throughput = 0.37812 Mbps
+49857 ms [UE 3210] UL Throughput = 0.41968 Mbps
+49957 ms [UE 3210] UL Throughput = 0.40927 Mbps
+50066 ms [UE 3210] UL Throughput = 0.34562 Mbps
+50167 ms [UE 3210] UL Throughput = 0.37799 Mbps
+50215 ms | now=1755741121059045 us | PDCP ind_msg latency=70915645 us
+50277 ms [UE 3210] UL Throughput = 0.69037 Mbps
+50377 ms [UE 3210] UL Throughput = 0.83888 Mbps
+50487 ms [UE 3210] UL Throughput = 0.07444 Mbps
+50587 ms [UE 3210] UL Throughput = 0.70445 Mbps
+50697 ms [UE 3210] UL Throughput = 0.76316 Mbps
+50807 ms [UE 3210] UL Throughput = 0.42070 Mbps
+50907 ms [UE 3210] UL Throughput = 0.00000 Mbps
+51017 ms [UE 3210] UL Throughput = 0.76349 Mbps
+51117 ms [UE 3210] UL Throughput = 0.70421 Mbps
+51227 ms [UE 3210] UL Throughput = 0.07479 Mbps
+51240 ms | now=1755741122083365 us | PDCP ind_msg latency=70915976 us
+51327 ms [UE 3210] UL Throughput = 0.37841 Mbps
+51437 ms [UE 3210] UL Throughput = 0.41929 Mbps
+51547 ms [UE 3210] UL Throughput = 0.65206 Mbps
+51647 ms [UE 3210] UL Throughput = 0.00000 Mbps
+51757 ms [UE 3210] UL Throughput = 0.64493 Mbps
+51867 ms [UE 3210] UL Throughput = 0.76377 Mbps
+51967 ms [UE 3210] UL Throughput = 0.83848 Mbps
+52067 ms [UE 3210] UL Throughput = 0.08144 Mbps
+52177 ms [UE 3210] UL Throughput = 0.34477 Mbps
+52264 ms | now=1755741123107170 us | PDCP ind_msg latency=70915780 us
+52287 ms [UE 3210] UL Throughput = 0.72015 Mbps
+52397 ms [UE 3210] UL Throughput = 0.68946 Mbps
+52497 ms [UE 3210] UL Throughput = 0.00000 Mbps
+52597 ms [UE 3210] UL Throughput = 0.46086 Mbps
+52707 ms [UE 3210] UL Throughput = 0.07439 Mbps
+52817 ms [UE 3210] UL Throughput = 0.64508 Mbps
+52917 ms [UE 3210] UL Throughput = 0.00000 Mbps
+53027 ms [UE 3210] UL Throughput = 0.68988 Mbps
+53137 ms [UE 3210] UL Throughput = 0.41899 Mbps
+53237 ms [UE 3210] UL Throughput = 0.83852 Mbps
+53288 ms | now=1755741124131278 us | PDCP ind_msg latency=70915888 us
+53347 ms [UE 3210] UL Throughput = 0.34514 Mbps
+53447 ms [UE 3210] UL Throughput = 0.32759 Mbps
+53547 ms [UE 3210] UL Throughput = 0.37884 Mbps
+53657 ms [UE 3210] UL Throughput = 0.41916 Mbps
+53767 ms [UE 3210] UL Throughput = 0.38237 Mbps
+53867 ms [UE 3210] UL Throughput = 0.37863 Mbps
+53967 ms [UE 3210] UL Throughput = 0.70508 Mbps
+54067 ms [UE 3210] UL Throughput = 0.46031 Mbps
+54177 ms [UE 3210] UL Throughput = 0.42006 Mbps
+54286 ms [UE 3210] UL Throughput = 0.34520 Mbps
+54312 ms | now=1755741125155320 us | PDCP ind_msg latency=70915909 us
+54397 ms [UE 3210] UL Throughput = 0.34418 Mbps
+54497 ms [UE 3210] UL Throughput = 0.40910 Mbps
+54597 ms [UE 3210] UL Throughput = 0.37772 Mbps
+54707 ms [UE 3210] UL Throughput = 0.34422 Mbps
+54817 ms [UE 3210] UL Throughput = 0.34606 Mbps
+54917 ms [UE 3210] UL Throughput = 0.46062 Mbps
+55017 ms [UE 3210] UL Throughput = 0.00000 Mbps
+55117 ms [UE 3210] UL Throughput = 0.70316 Mbps
+55227 ms [UE 3210] UL Throughput = 0.69355 Mbps
+55327 ms [UE 3210] UL Throughput = 0.75586 Mbps
+55336 ms | now=1755741126179272 us | PDCP ind_msg latency=70915859 us
+55437 ms [UE 3210] UL Throughput = 0.07437 Mbps
+55537 ms [UE 3210] UL Throughput = 0.37893 Mbps
+55647 ms [UE 3210] UL Throughput = 0.71898 Mbps
+55747 ms [UE 3210] UL Throughput = 0.37645 Mbps
+55856 ms [UE 3210] UL Throughput = 0.42246 Mbps
+55957 ms [UE 3210] UL Throughput = 0.37783 Mbps
+56057 ms [UE 3210] UL Throughput = 0.83918 Mbps
+56167 ms [UE 3210] UL Throughput = 0.64192 Mbps
+56276 ms [UE 3210] UL Throughput = 0.07479 Mbps
+56360 ms | now=1755741127203373 us | PDCP ind_msg latency=70915984 us
+56377 ms [UE 3210] UL Throughput = 0.37747 Mbps
+56487 ms [UE 3210] UL Throughput = 0.07460 Mbps
+56587 ms [UE 3210] UL Throughput = 0.75741 Mbps
+56687 ms [UE 3210] UL Throughput = 0.00000 Mbps
+56797 ms [UE 3210] UL Throughput = 0.34510 Mbps
+56907 ms [UE 3210] UL Throughput = 0.68831 Mbps
+57007 ms [UE 3210] UL Throughput = 0.45974 Mbps
+57117 ms [UE 3210] UL Throughput = 0.41940 Mbps
+57217 ms [UE 3210] UL Throughput = 0.37887 Mbps
+57327 ms [UE 3210] UL Throughput = 0.64482 Mbps
+57384 ms | now=1755741128227263 us | PDCP ind_msg latency=70915878 us
+57427 ms [UE 3210] UL Throughput = 0.83928 Mbps
+57537 ms [UE 3210] UL Throughput = 0.07426 Mbps
+57647 ms [UE 3210] UL Throughput = 0.34543 Mbps
+57747 ms [UE 3210] UL Throughput = 0.83927 Mbps
+57847 ms [UE 3210] UL Throughput = 0.70604 Mbps
+57957 ms [UE 3210] UL Throughput = 0.07468 Mbps
+58057 ms [UE 3210] UL Throughput = 0.00000 Mbps
+58167 ms [UE 3210] UL Throughput = 0.76373 Mbps
+58277 ms [UE 3210] UL Throughput = 0.65197 Mbps
+58387 ms [UE 3210] UL Throughput = 0.41823 Mbps
+58408 ms | now=1755741129251335 us | PDCP ind_msg latency=70915947 us
+58487 ms [UE 3210] UL Throughput = 0.32747 Mbps
+58597 ms [UE 3210] UL Throughput = 0.76451 Mbps
+58697 ms [UE 3210] UL Throughput = 0.08147 Mbps
+58807 ms [UE 3210] UL Throughput = 0.07496 Mbps
+58917 ms [UE 3210] UL Throughput = 0.68938 Mbps
+59027 ms [UE 3210] UL Throughput = 0.34442 Mbps
+59137 ms [UE 3210] UL Throughput = 0.34490 Mbps
+59237 ms [UE 3210] UL Throughput = 0.08175 Mbps
+59347 ms [UE 3210] UL Throughput = 0.34434 Mbps
+59432 ms | now=1755741130275400 us | PDCP ind_msg latency=70916018 us
+59447 ms [UE 3210] UL Throughput = 0.37895 Mbps
+59547 ms [UE 3210] UL Throughput = 0.70575 Mbps
+59657 ms [UE 3210] UL Throughput = 0.69122 Mbps
+59767 ms [UE 3210] UL Throughput = 0.07430 Mbps
+59877 ms [UE 3210] UL Throughput = 0.34511 Mbps
+59977 ms [UE 3210] UL Throughput = 0.37722 Mbps
+60087 ms [UE 3210] UL Throughput = 0.64566 Mbps
+60187 ms [UE 3210] UL Throughput = 0.08140 Mbps
+60297 ms [UE 3210] UL Throughput = 0.34481 Mbps
+60407 ms [UE 3210] UL Throughput = 0.42036 Mbps
+60456 ms | now=1755741131299219 us | PDCP ind_msg latency=70915801 us
+60507 ms [UE 3210] UL Throughput = 0.83863 Mbps
+60607 ms [UE 3210] UL Throughput = 0.70472 Mbps
+60717 ms [UE 3210] UL Throughput = 0.00000 Mbps
+60827 ms [UE 3210] UL Throughput = 0.41904 Mbps
+60927 ms [UE 3210] UL Throughput = 0.83984 Mbps
+61027 ms [UE 3210] UL Throughput = 0.37774 Mbps
+61127 ms [UE 3210] UL Throughput = 0.37892 Mbps
+61237 ms [UE 3210] UL Throughput = 0.72912 Mbps
+61337 ms [UE 3210] UL Throughput = 0.83968 Mbps
+61447 ms [UE 3210] UL Throughput = 0.76408 Mbps
+61480 ms | now=1755741132323326 us | PDCP ind_msg latency=70915931 us
+61547 ms [UE 3210] UL Throughput = 0.08175 Mbps
+61647 ms [UE 3210] UL Throughput = 0.75688 Mbps
+61747 ms [UE 3210] UL Throughput = 0.79649 Mbps
+61857 ms [UE 3210] UL Throughput = 0.41922 Mbps
+61967 ms [UE 3210] UL Throughput = 0.34531 Mbps
+62077 ms [UE 3210] UL Throughput = 0.76290 Mbps
+62187 ms [UE 3210] UL Throughput = 0.76276 Mbps
+62287 ms [UE 3210] UL Throughput = 0.46032 Mbps
+62397 ms [UE 3210] UL Throughput = 0.30811 Mbps
+62505 ms | now=1755741133348467 us | PDCP ind_msg latency=70916045 us
+62507 ms [UE 3210] UL Throughput = 0.73847 Mbps
+62607 ms [UE 3210] UL Throughput = 0.83682 Mbps
+62707 ms [UE 3210] UL Throughput = 0.08187 Mbps
+62817 ms [UE 3210] UL Throughput = 0.69015 Mbps
+62927 ms [UE 3210] UL Throughput = 0.72764 Mbps
+63037 ms [UE 3210] UL Throughput = 0.76307 Mbps
+63137 ms [UE 3210] UL Throughput = 0.08160 Mbps
+63248 ms [UE 3210] UL Throughput = 0.68563 Mbps
+63357 ms [UE 3210] UL Throughput = 0.76994 Mbps
+63467 ms [UE 3210] UL Throughput = 0.72598 Mbps
+63529 ms | now=1755741134372804 us | PDCP ind_msg latency=70916361 us
+63577 ms [UE 3210] UL Throughput = 0.41930 Mbps
+63677 ms [UE 3210] UL Throughput = 0.37803 Mbps
+63777 ms [UE 3210] UL Throughput = 0.83961 Mbps
+63887 ms [UE 3210] UL Throughput = 0.76546 Mbps
+63987 ms [UE 3210] UL Throughput = 0.46045 Mbps
+64087 ms [UE 3210] UL Throughput = 0.33690 Mbps
+64187 ms [UE 3210] UL Throughput = 0.83841 Mbps
+64297 ms [UE 3210] UL Throughput = 0.76318 Mbps
+64407 ms [UE 3210] UL Throughput = 0.42026 Mbps
+64517 ms [UE 3210] UL Throughput = 0.34467 Mbps
+64554 ms | now=1755741135397297 us | PDCP ind_msg latency=70915913 us
+64617 ms [UE 3210] UL Throughput = 0.79693 Mbps
+64727 ms [UE 3210] UL Throughput = 0.73529 Mbps
+64837 ms [UE 3210] UL Throughput = 0.42047 Mbps
+64937 ms [UE 3210] UL Throughput = 0.37867 Mbps
+65047 ms [UE 3210] UL Throughput = 0.76371 Mbps
+65147 ms [UE 3210] UL Throughput = 0.79902 Mbps
+65247 ms [UE 3210] UL Throughput = 0.08189 Mbps
+65357 ms [UE 3210] UL Throughput = 0.69018 Mbps
+65457 ms [UE 3210] UL Throughput = 0.83869 Mbps
+65557 ms [UE 3210] UL Throughput = 0.83925 Mbps
+65579 ms | now=1755741136422549 us | PDCP ind_msg latency=70916149 us
+65657 ms [UE 3210] UL Throughput = 0.08168 Mbps
+65767 ms [UE 3210] UL Throughput = 0.65525 Mbps
+65867 ms [UE 3210] UL Throughput = 0.83955 Mbps
+65967 ms [UE 3210] UL Throughput = 0.83751 Mbps
+66077 ms [UE 3210] UL Throughput = 0.00000 Mbps
+66187 ms [UE 3210] UL Throughput = 0.76396 Mbps
+66297 ms [UE 3210] UL Throughput = 0.72770 Mbps
+66397 ms [UE 3210] UL Throughput = 0.45831 Mbps
+66507 ms [UE 3210] UL Throughput = 0.34572 Mbps
+66605 ms | now=1755741137448446 us | PDCP ind_msg latency=70916052 us
+66607 ms [UE 3210] UL Throughput = 0.83929 Mbps
+66717 ms [UE 3210] UL Throughput = 0.76319 Mbps
+66827 ms [UE 3210] UL Throughput = 0.41953 Mbps
+66927 ms [UE 3210] UL Throughput = 0.33806 Mbps
+67037 ms [UE 3210] UL Throughput = 0.73752 Mbps
+67137 ms [UE 3210] UL Throughput = 0.83663 Mbps
+67237 ms [UE 3210] UL Throughput = 0.08170 Mbps
+67347 ms [UE 3210] UL Throughput = 0.68999 Mbps
+67457 ms [UE 3210] UL Throughput = 0.72811 Mbps
+67557 ms [UE 3210] UL Throughput = 0.83822 Mbps
+67629 ms | now=1755741138472790 us | PDCP ind_msg latency=70916322 us
+67667 ms [UE 3210] UL Throughput = 0.41859 Mbps
+67778 ms [UE 3210] UL Throughput = 0.41680 Mbps
+67887 ms [UE 3210] UL Throughput = 0.69429 Mbps
+67987 ms [UE 3210] UL Throughput = 0.79775 Mbps
+68097 ms [UE 3210] UL Throughput = 0.76432 Mbps
+68197 ms [UE 3210] UL Throughput = 0.00000 Mbps
+68297 ms [UE 3210] UL Throughput = 0.83606 Mbps
+68407 ms [UE 3210] UL Throughput = 0.76672 Mbps
+68517 ms [UE 3210] UL Throughput = 0.72647 Mbps
+68627 ms [UE 3210] UL Throughput = 0.00000 Mbps
+68654 ms | now=1755741139497542 us | PDCP ind_msg latency=70917116 us
+68727 ms [UE 3210] UL Throughput = 0.83850 Mbps
+68837 ms [UE 3210] UL Throughput = 0.76398 Mbps
+68947 ms [UE 3210] UL Throughput = 0.42019 Mbps
+69047 ms [UE 3210] UL Throughput = 0.37835 Mbps
+69157 ms [UE 3210] UL Throughput = 0.72831 Mbps
+69257 ms [UE 3210] UL Throughput = 0.80247 Mbps
+69367 ms [UE 3210] UL Throughput = 0.42059 Mbps
+69477 ms [UE 3210] UL Throughput = 0.34470 Mbps
+69587 ms [UE 3210] UL Throughput = 0.76397 Mbps
+69677 ms | now=1755741140520612 us | PDCP ind_msg latency=70916133 us
+69687 ms [UE 3210] UL Throughput = 0.79729 Mbps
+69797 ms [UE 3210] UL Throughput = 0.76547 Mbps
+69897 ms [UE 3210] UL Throughput = 0.00000 Mbps
+70007 ms [UE 3210] UL Throughput = 0.76869 Mbps
+70107 ms [UE 3210] UL Throughput = 0.83864 Mbps
+70207 ms [UE 3210] UL Throughput = 0.46034 Mbps
+70307 ms [UE 3210] UL Throughput = 0.33805 Mbps
+70417 ms [UE 3210] UL Throughput = 0.76471 Mbps
+70527 ms [UE 3210] UL Throughput = 0.76362 Mbps
+70627 ms [UE 3210] UL Throughput = 0.45960 Mbps
+70704 ms | now=1755741141547946 us | PDCP ind_msg latency=70918556 us
+70737 ms [UE 3210] UL Throughput = 0.41825 Mbps
+70847 ms [UE 3210] UL Throughput = 0.65510 Mbps
+70947 ms [UE 3210] UL Throughput = 0.83970 Mbps
+71047 ms [UE 3210] UL Throughput = 0.83795 Mbps
+71157 ms [UE 3210] UL Throughput = 0.07448 Mbps
+71257 ms [UE 3210] UL Throughput = 0.75531 Mbps
+71367 ms [UE 3210] UL Throughput = 0.72934 Mbps
+71467 ms [UE 3210] UL Throughput = 0.80868 Mbps
+71577 ms [UE 3210] UL Throughput = 0.07442 Mbps
+71687 ms [UE 3210] UL Throughput = 0.68929 Mbps
+71725 ms | now=1755741142568749 us | PDCP ind_msg latency=70916247 us
+71787 ms [UE 3210] UL Throughput = 0.83816 Mbps
+71887 ms [UE 3210] UL Throughput = 0.79890 Mbps
+71997 ms [UE 3210] UL Throughput = 0.00000 Mbps
+72107 ms [UE 3210] UL Throughput = 0.76526 Mbps
+72208 ms [UE 3210] UL Throughput = 0.83072 Mbps
+72318 ms [UE 3210] UL Throughput = 0.76310 Mbps
+72427 ms [UE 3210] UL Throughput = 0.00000 Mbps
+72527 ms [UE 3210] UL Throughput = 0.79815 Mbps
+72627 ms [UE 3210] UL Throughput = 0.83721 Mbps
+72737 ms [UE 3210] UL Throughput = 0.07477 Mbps
+72749 ms | now=1755741143592608 us | PDCP ind_msg latency=70916191 us
+72837 ms [UE 3210] UL Throughput = 0.75750 Mbps
+72947 ms [UE 3210] UL Throughput = 0.76538 Mbps
+73047 ms [UE 3210] UL Throughput = 0.46067 Mbps
+73157 ms [UE 3210] UL Throughput = 0.30742 Mbps
+73257 ms [UE 3210] UL Throughput = 0.83671 Mbps
+73367 ms [UE 3210] UL Throughput = 0.76571 Mbps
+73467 ms [UE 3210] UL Throughput = 0.08159 Mbps
+73577 ms [UE 3210] UL Throughput = 0.69049 Mbps
+73687 ms [UE 3210] UL Throughput = 0.72669 Mbps
+73775 ms | now=1755741144618526 us | PDCP ind_msg latency=70916141 us
+73787 ms [UE 3210] UL Throughput = 0.80776 Mbps
+73897 ms [UE 3210] UL Throughput = 0.07472 Mbps
+73997 ms [UE 3210] UL Throughput = 0.75588 Mbps
+74107 ms [UE 3210] UL Throughput = 0.76530 Mbps
+74207 ms [UE 3210] UL Throughput = 0.45941 Mbps
+74318 ms [UE 3210] UL Throughput = 0.30612 Mbps
+74427 ms [UE 3210] UL Throughput = 0.76725 Mbps
+74537 ms [UE 3210] UL Throughput = 0.76460 Mbps
+74637 ms [UE 3210] UL Throughput = 0.83922 Mbps
+74737 ms [UE 3210] UL Throughput = 0.00000 Mbps
+74800 ms | now=1755741145643733 us | PDCP ind_msg latency=70916350 us
+74847 ms [UE 3210] UL Throughput = 0.72487 Mbps
+74957 ms [UE 3210] UL Throughput = 0.76592 Mbps
+75057 ms [UE 3210] UL Throughput = 0.45918 Mbps
+75167 ms [UE 3210] UL Throughput = 0.34417 Mbps
+75277 ms [UE 3210] UL Throughput = 0.76623 Mbps
+75377 ms [UE 3210] UL Throughput = 0.79690 Mbps
+75487 ms [UE 3210] UL Throughput = 0.42037 Mbps
+75587 ms [UE 3210] UL Throughput = 0.37894 Mbps
+75697 ms [UE 3210] UL Throughput = 0.76428 Mbps
+75797 ms [UE 3210] UL Throughput = 0.83867 Mbps
+75824 ms | now=1755741146667487 us | PDCP ind_msg latency=70916097 us
+75897 ms [UE 3210] UL Throughput = 0.45955 Mbps
+76007 ms [UE 3210] UL Throughput = 0.30839 Mbps
+76107 ms [UE 3210] UL Throughput = 0.80709 Mbps
+76217 ms [UE 3210] UL Throughput = 0.76294 Mbps
+76327 ms [UE 3210] UL Throughput = 0.76495 Mbps
+76437 ms [UE 3210] UL Throughput = 0.07432 Mbps
+76547 ms [UE 3210] UL Throughput = 0.65260 Mbps
+76657 ms [UE 3210] UL Throughput = 0.76652 Mbps
+76757 ms [UE 3210] UL Throughput = 0.83550 Mbps
+76850 ms | now=1755741147693525 us | PDCP ind_msg latency=70916141 us
+76867 ms [UE 3210] UL Throughput = 0.07466 Mbps
+76967 ms [UE 3210] UL Throughput = 0.75672 Mbps
+77067 ms [UE 3210] UL Throughput = 0.79784 Mbps
+77177 ms [UE 3210] UL Throughput = 0.76552 Mbps
+77277 ms [UE 3210] UL Throughput = 0.00000 Mbps
+77387 ms [UE 3210] UL Throughput = 0.76515 Mbps
+77497 ms [UE 3210] UL Throughput = 0.76307 Mbps
+77597 ms [UE 3210] UL Throughput = 0.46061 Mbps
+77707 ms [UE 3210] UL Throughput = 0.30622 Mbps
+77817 ms [UE 3210] UL Throughput = 0.76627 Mbps
+77874 ms | now=1755741148717737 us | PDCP ind_msg latency=70916339 us
+77927 ms [UE 3210] UL Throughput = 0.76499 Mbps
+78027 ms [UE 3210] UL Throughput = 0.45925 Mbps
+78127 ms [UE 3210] UL Throughput = 0.37874 Mbps
+78237 ms [UE 3210] UL Throughput = 0.72759 Mbps
+78347 ms [UE 3210] UL Throughput = 0.73577 Mbps
+78447 ms [UE 3210] UL Throughput = 0.46024 Mbps
+78557 ms [UE 3210] UL Throughput = 0.34489 Mbps
+78657 ms [UE 3210] UL Throughput = 0.83976 Mbps
+78757 ms [UE 3210] UL Throughput = 0.79506 Mbps
+78867 ms [UE 3210] UL Throughput = 0.07474 Mbps
+78900 ms | now=1755741149744061 us | PDCP ind_msg latency=70918641 us
+78968 ms [UE 3210] UL Throughput = 0.75202 Mbps
+79077 ms [UE 3210] UL Throughput = 0.76972 Mbps
+79187 ms [UE 3210] UL Throughput = 0.76318 Mbps
+79297 ms [UE 3210] UL Throughput = 0.41879 Mbps
+79407 ms [UE 3210] UL Throughput = 0.30784 Mbps
+79507 ms [UE 3210] UL Throughput = 0.83901 Mbps
+79607 ms [UE 3210] UL Throughput = 0.83921 Mbps
+79717 ms [UE 3210] UL Throughput = 0.41944 Mbps
+79827 ms [UE 3210] UL Throughput = 0.34401 Mbps
+79922 ms | now=1755741150765568 us | PDCP ind_msg latency=70916184 us
+79937 ms [UE 3210] UL Throughput = 0.72694 Mbps
+80047 ms [UE 3210] UL Throughput = 0.76529 Mbps
+80157 ms [UE 3210] UL Throughput = 0.76070 Mbps
+80267 ms [UE 3210] UL Throughput = 0.42026 Mbps
+80367 ms [UE 3210] UL Throughput = 0.37860 Mbps
+80477 ms [UE 3210] UL Throughput = 0.72472 Mbps
+80587 ms [UE 3210] UL Throughput = 0.73608 Mbps
+80697 ms [UE 3210] UL Throughput = 0.76300 Mbps
+80798 ms [UE 3210] UL Throughput = 0.08153 Mbps
+80907 ms [UE 3210] UL Throughput = 0.69275 Mbps
+80946 ms | now=1755741151789799 us | PDCP ind_msg latency=70916351 us
+81007 ms [UE 3210] UL Throughput = 0.79804 Mbps
+81117 ms [UE 3210] UL Throughput = 0.76336 Mbps
+81217 ms [UE 3210] UL Throughput = 0.08179 Mbps
+81327 ms [UE 3210] UL Throughput = 0.69263 Mbps
+81427 ms [UE 3210] UL Throughput = 0.83839 Mbps
+81537 ms [UE 3210] UL Throughput = 0.72513 Mbps
+81647 ms [UE 3210] UL Throughput = 0.41974 Mbps
+81757 ms [UE 3210] UL Throughput = 0.41875 Mbps
+81857 ms [UE 3210] UL Throughput = 0.75787 Mbps
+81967 ms [UE 3210] UL Throughput = 0.76540 Mbps
+81970 ms | now=1755741152813591 us | PDCP ind_msg latency=70916205 us
+82067 ms [UE 3210] UL Throughput = 0.79798 Mbps
+82167 ms [UE 3210] UL Throughput = 0.00000 Mbps
+82267 ms [UE 3210] UL Throughput = 0.83903 Mbps
+82377 ms [UE 3210] UL Throughput = 0.76546 Mbps
+82477 ms [UE 3210] UL Throughput = 0.46039 Mbps
+82577 ms [UE 3210] UL Throughput = 0.37811 Mbps
+82687 ms [UE 3210] UL Throughput = 0.72578 Mbps
+82797 ms [UE 3210] UL Throughput = 0.73510 Mbps
+82907 ms [UE 3210] UL Throughput = 0.41981 Mbps
+82995 ms | now=1755741153838650 us | PDCP ind_msg latency=70917263 us
+83017 ms [UE 3210] UL Throughput = 0.34416 Mbps
+83127 ms [UE 3210] UL Throughput = 0.76495 Mbps
+83237 ms [UE 3210] UL Throughput = 0.72558 Mbps
+83347 ms [UE 3210] UL Throughput = 0.42001 Mbps
+83447 ms [UE 3210] UL Throughput = 0.37748 Mbps
+83557 ms [UE 3210] UL Throughput = 0.76394 Mbps
+83657 ms [UE 3210] UL Throughput = 0.83900 Mbps
+83767 ms [UE 3210] UL Throughput = 0.41939 Mbps
+83877 ms [UE 3210] UL Throughput = 0.38292 Mbps
+83977 ms [UE 3210] UL Throughput = 0.75571 Mbps
+84019 ms | now=1755741154862852 us | PDCP ind_msg latency=70916421 us
+84087 ms [UE 3210] UL Throughput = 0.76638 Mbps
+84187 ms [UE 3210] UL Throughput = 0.46035 Mbps
+84287 ms [UE 3210] UL Throughput = 0.37719 Mbps
+84397 ms [UE 3210] UL Throughput = 0.72631 Mbps
+84507 ms [UE 3210] UL Throughput = 0.76479 Mbps
+84607 ms [UE 3210] UL Throughput = 0.08184 Mbps
+84717 ms [UE 3210] UL Throughput = 0.68987 Mbps
+84827 ms [UE 3210] UL Throughput = 0.76369 Mbps
+84927 ms [UE 3210] UL Throughput = 0.79803 Mbps
+85027 ms [UE 3210] UL Throughput = 0.42984 Mbps
+85044 ms | now=1755741155887685 us | PDCP ind_msg latency=70916295 us
+85137 ms [UE 3210] UL Throughput = 0.34574 Mbps
+85237 ms [UE 3210] UL Throughput = 0.83796 Mbps
+85337 ms [UE 3210] UL Throughput = 0.83923 Mbps
+85437 ms [UE 3210] UL Throughput = 0.00000 Mbps
+85547 ms [UE 3210] UL Throughput = 0.72597 Mbps
+85658 ms [UE 3210] UL Throughput = 0.76164 Mbps
+85768 ms [UE 3210] UL Throughput = 0.76372 Mbps
+85877 ms [UE 3210] UL Throughput = 0.07489 Mbps
+85977 ms [UE 3210] UL Throughput = 0.75556 Mbps
+86069 ms | now=1755741156912803 us | PDCP ind_msg latency=70916351 us
+86087 ms [UE 3210] UL Throughput = 0.72749 Mbps
+86187 ms [UE 3210] UL Throughput = 0.08175 Mbps
+86297 ms [UE 3210] UL Throughput = 0.68949 Mbps
+86407 ms [UE 3210] UL Throughput = 0.76430 Mbps
+86507 ms [UE 3210] UL Throughput = 0.83966 Mbps
+86617 ms [UE 3210] UL Throughput = 0.41956 Mbps
+86718 ms [UE 3210] UL Throughput = 0.33580 Mbps
+86827 ms [UE 3210] UL Throughput = 0.76887 Mbps
+86927 ms [UE 3210] UL Throughput = 0.83630 Mbps
+87037 ms [UE 3210] UL Throughput = 0.41946 Mbps
+87093 ms | now=1755741157936767 us | PDCP ind_msg latency=70916381 us
+87137 ms [UE 3210] UL Throughput = 0.37816 Mbps
+87247 ms [UE 3210] UL Throughput = 0.72774 Mbps
+87357 ms [UE 3210] UL Throughput = 0.73820 Mbps
+87457 ms [UE 3210] UL Throughput = 0.46032 Mbps
+87557 ms [UE 3210] UL Throughput = 0.37869 Mbps
+87657 ms [UE 3210] UL Throughput = 0.83911 Mbps
+87757 ms [UE 3210] UL Throughput = 0.79652 Mbps
+87867 ms [UE 3210] UL Throughput = 0.42074 Mbps
+87967 ms [UE 3210] UL Throughput = 0.37851 Mbps
+88067 ms [UE 3210] UL Throughput = 0.83699 Mbps
+88118 ms | now=1755741158961532 us | PDCP ind_msg latency=70916150 us
+88177 ms [UE 3210] UL Throughput = 0.76577 Mbps
+88287 ms [UE 3210] UL Throughput = 0.07432 Mbps
+88397 ms [UE 3210] UL Throughput = 0.65379 Mbps
+88497 ms [UE 3210] UL Throughput = 0.83828 Mbps
+88598 ms [UE 3210] UL Throughput = 0.83368 Mbps
+88707 ms [UE 3210] UL Throughput = 0.07496 Mbps
+88807 ms [UE 3210] UL Throughput = 0.75781 Mbps
+88917 ms [UE 3210] UL Throughput = 0.72676 Mbps
+89027 ms [UE 3210] UL Throughput = 0.41845 Mbps
+89127 ms [UE 3210] UL Throughput = 0.37853 Mbps
+89147 ms | now=1755741159990203 us | PDCP ind_msg latency=70918821 us
+89237 ms [UE 3210] UL Throughput = 0.76605 Mbps
+89347 ms [UE 3210] UL Throughput = 0.76254 Mbps
+89447 ms [UE 3210] UL Throughput = 0.46081 Mbps
+89557 ms [UE 3210] UL Throughput = 0.30782 Mbps
+89667 ms [UE 3210] UL Throughput = 0.73551 Mbps
+89767 ms [UE 3210] UL Throughput = 0.83865 Mbps
+89877 ms [UE 3210] UL Throughput = 0.76547 Mbps
+89977 ms [UE 3210] UL Throughput = 0.00000 Mbps
+[xApp]: E42 RIC_SUBSCRIPTION_DELETE_REQUEST tx RAN_FUNC_ID 144 RIC_REQ_ID 1 
+[xApp]: E42 SUBSCRIPTION DELETE RESPONSE rx
+[xApp]: E42 RIC_SUBSCRIPTION_DELETE_REQUEST tx RAN_FUNC_ID 142 RIC_REQ_ID 2 
+[xApp]: E42 SUBSCRIPTION DELETE RESPONSE rx
+[xApp]: E42 RIC_SUBSCRIPTION_DELETE_REQUEST tx RAN_FUNC_ID 142 RIC_REQ_ID 3 
+[xApp]: E42 SUBSCRIPTION DELETE RESPONSE rx
+[xApp]: Sucessfully stopped 
+MAC/PDCP xApp run SUCCESSFULLY
