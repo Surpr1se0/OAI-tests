@@ -4,9 +4,6 @@ import os
 import numpy as np
 
 def aggregate_cf(df, ue_map, overhead=1.0):
-    """
-    Multiple UE IDs are aggregated into a single UE name.
-    """
     results = []
     for ue_name, ue_ids in ue_map.items():
         df_sub = df[df["UE_ID"].isin(ue_ids)]

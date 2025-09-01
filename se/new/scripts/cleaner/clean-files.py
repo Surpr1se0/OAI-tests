@@ -7,7 +7,7 @@ num_ues = ["1","5","10"]
 base_dir_input = os.path.join("se", "new","dirty-files-ul")
 base_dir_output = os.path.join("se", "new", "clean-files-ul")
 
-# Novo regex com captura do SE
+# regex 
 pattern = re.compile(
     r"\[\s*(\d+)\s*ms\]\s*\[UE\s+(\d+)\]\s*UL:\s*SNR\s*=\s*([+-]?\d+(?:\.\d+)?)\s*dB\s*\|\s*SE\s*=\s*([+-]?\d+(?:\.\d+)?)\s*bit/s/Hz\s*$",
     re.IGNORECASE
