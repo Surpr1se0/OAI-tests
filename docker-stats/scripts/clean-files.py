@@ -43,9 +43,7 @@ for filename in os.listdir(raw_data_dir):
     if filename.endswith(".log"):
         input_path = os.path.join(raw_data_dir, filename)
         output_path = os.path.join(output_dir, filename.replace(".log", ".csv"))
-
         rows = read_raw_data(input_path)
-
         if rows:
             with open(output_path, "w", newline="") as f_out:
                 writer = csv.writer(f_out)
@@ -79,13 +77,11 @@ def convert_to_mb(value):
 
 df = pd.read_csv("docker_stats.csv")
 
-# Aplicar conversão para colunas relevantes
+# Conversions
 for col in ['Mem_Usage', 'Mem_Limit', 'Net_RX', 'Net_TX', 'Block_Read', 'Block_Write']:
     df[col + "_MB"] = df[col].apply(convert_to_mb)
 
-# Remover colunas antigas (opcional)
+# remove old columns
 df.drop(columns=['Mem_Usage', 'Mem_Limit', 'Net_RX', 'Net_TX', 'Block_Read', 'Block_Write'], inplace=True)
-
-# Guardar novo CSV
 df.to_csv("docker_stats_converted.csv", index=False)
 print("Conversão completa → 'docker_stats_converted.csv'")
