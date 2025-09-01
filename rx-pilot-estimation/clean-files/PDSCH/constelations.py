@@ -3,13 +3,11 @@ import matplotlib.pyplot as plt
 
 input_file = "rx-pilot-estimation/clean-files/PDSCH/ue1.csv"
 df = pd.read_csv(input_file, header=None, names=["type", "index", "I", "Q", "extra"])
-df = df.drop(columns=["extra"])  # remover se não for necessário
+df = df.drop(columns=["extra"])  
 
-# Separar os dois tipos
 df_rxF = df[df["type"] == "rxF"]
 df_pilot = df[df["type"] == "pilot"]
 
-# Ver alguns exemplos
 print(df_rxF.head())
 print(df_pilot.head())
 
