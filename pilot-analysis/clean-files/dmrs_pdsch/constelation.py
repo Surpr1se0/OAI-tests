@@ -25,14 +25,6 @@ df_6.columns = df_6.columns.str.strip()
 i_part_6 = df_6['I Part'].astype(int)
 q_part_6 = df_6['Q Part'].astype(int)
 
-# print("Valores únicos de I:", i_part_6.unique())
-# print("Valores únicos de Q:", q_part_6.unique())
-# print("Colunas disponíveis:", df_6.columns)
-# print("Primeiras linhas do DataFrame:")
-# print(df.head())
-# print("\nValores únicos de I Part:", i_part_6.unique())
-# print("Valores únicos de Q Part:", q_part_6.unique())
-
 max_val = max(i_part.abs().max(), q_part.abs().max())
 i_norm = i_part / max_val
 q_norm = q_part / max_val
