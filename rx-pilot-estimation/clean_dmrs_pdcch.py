@@ -31,7 +31,7 @@ with open(LOG_FILE, "r") as f:
                 "ch_i": ch_i,
                 "pilot_r": pilot_r,
                 "pilot_i": pilot_i,
-                "k": None  # k não presente nesse print
+                "k": None 
             })
             continue
 

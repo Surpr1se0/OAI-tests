@@ -1,38 +1,39 @@
 1. pilot[i] = (r, i)
 
-    Refere-se ao símbolo piloto gerado localmente no UE, já conjugado (DMRS*).
+Refers to the pilot symbol generated locally at the UE, already conjugated (DMRS*).
 
-    Usado para estimação de canal.
+Used for channel estimation.
 
-    Valor teórico esperado (por exemplo, em QPSK: ±23170).
+Theoretical expected value (e.g., in QPSK: ±23170).
 
 2. rxF[re_offset] = (r, i)
 
-    Amostra recebida do canal, no subportador k + re_offset.
+Sample received from the channel, on subcarrier k + re_offset.
 
-    Representa o que o UE recebeu do gNB no recurso onde deveria estar um piloto.
+Represents what the UE received from the gNB on the resource where a pilot should be.
 
-    Contaminado por ruído, canal, distorções.
+Contaminated by noise, channel, and distortions.
 
 3. ch = (r, i)
 
-    Resultado da estimação do canal para aquele piloto.
+Result of channel estimation for that pilot.
 
-    Calculado com:
+Calculated with:
 
-    ch.r = pil->r * rxF.r - pil->i * rxF.i;
-    ch.i = pil->r * rxF.i + pil->i * rxF.r;
+ch.r = pil->r * rxF.r - pil->i * rxF.i;
 
-    Representa a resposta ao canal complexa nesse ponto (antes de normalizar/dividir por |piloto|², pois já está conjugado).
+ch.i = pil->r * rxF.i + pil->i * rxF.r;
+
+Represents the complex channel response at that point (before normalizing/dividing by |pilot|², since it is already conjugate).
 
 4. k, first_carrier
 
-    k: índice do subportador onde a estimativa está a ser feita.
+k: index of the subcarrier where the estimation is being made.
 
-    first_carrier: offset do primeiro subportador em uso, normalmente depende do número de PRBs (RBs).
+first_carrier: offset of the first subcarrier in use, usually dependent on the number of PRBs (RBs).
 
-📄 Formato CSV sugerido
-tipo	idx	rxF_r	rxF_i	ch_r	ch_i	pilot_r	pilot_i	k	first_carrier
-pbch	0	12	-4	300	220	23170	-23170	1	1412
-pbch	1	...	...	...	...	...	...		
-...	
+📄 Suggested CSV format
+type idx rxF_r rxF_i ch_r ch_i pilot_r pilot_i k first_carrier
+pbch 0 12 -4 300 220 23170 -23170 1 1412
+pbch 1 ... ... ... ... ... ...
+...

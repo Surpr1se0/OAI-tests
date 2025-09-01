@@ -1,40 +1,40 @@
-🧠 1. Significado de cada LOG_I(PHY, ...)
-✅ Linha 1 – Pilotos (DMRS) transmitidos
+🧠 1. Meaning of each LOG_I(PHY, ...)
+✅ Line 1 – Transmitted pilots (DMRS)
 
 LOG_I(PHY, "[PDSCH-DMRS pilot] [%d] = (%d, %d)\n", i, pilot[i].r, pilot[i].i);
 
-    i: índice do símbolo piloto (DMRS) no vetor pilot[]
+i: index of the pilot symbol (DMRS) in the pilot[] array
 
-    (%d, %d): parte real (r) e imaginária (i) do símbolo gerado localmente (já conjugado)
+(%d, %d): real (r) and imaginary (i) parts of the locally generated symbol (already conjugated)
 
-🔹 Estes são os valores "conhecidos" usados na estimação do canal.
-✅ Linha 2 – Sinais recebidos antes da estimação
+🔹 These are the "known" values ​​used in channel estimation.
+✅ Line 2 – Received signals before estimation
 
-LOG_I(PHY, "[PDSCH-RX] aarx=%d i=%d rxF = (%d,%d)\n", aarx, i, rxF[i].r, rxF[i].i);
+LOG_I(PHY, "[PDSCH-RX] aarx=%d i=%d rxF = (%d, %d)\n", aarx, i, rxF[i].r, rxF[i].i);
 
-    aarx: índice da antena de receção
+aarx: receive antenna index
 
-    i: índice no vetor rxF[], que contém os sinais OFDM recebidos
+i: index in the rxF[] array, which contains the received OFDM signals
 
-    rxF[i]: amostra complexa (I/Q) recebida do canal
+rxF[i]: received complex sample (I/Q) of the channel
 
-🔹 Estes são os valores reais recebidos, antes da multiplicação com o piloto.
-✅ Linha 3 e 4 – Estimativa de canal (dl_ch)
+🔹 These are the actual values ​​received, before multiplication with the pilot.
+✅ Lines 3 and 4 – Channel Estimation (dl_ch)
 
 LOG_I(PHY, "[PDSCH-RX]%4d\t%4d\t", dl_ch[idxP * 8 + idxI].r, dl_ch[idxP * 8 + idxI].i);
 LOG_I(PHY, "[PDSCH-RX]%2d\n", idxP);
 
-    dl_ch[...]: valor estimado da resposta ao canal, após estimação com os pilotos
+dl_ch[...]: estimated channel response value, after estimation with pilots
 
-    idxP: índice do bloco (normalmente cada bloco tem 8 amostras)
+idxP: block index (each block usually has 8 samples)
 
-    idxI: índice interno dentro do bloco
+idxI: internal index within the block
 
-🔹 Isto representa a estimativa da resposta ao canal em cada RE (Resource Element).  
-📊 2. O que exportar para CSV e porquê
-🔎 Dados úteis:  
-Campo	Origem	Útil para CSV?	Motivo  
-pilot[i]	linha 1	✅	Para confirmar coerência com rxF  
-rxF[i]	linha 2	✅	Para observar o impacto do canal  
-aarx	linha 2	✅	Para separar canais de antenas diferentes  
-dl_ch[idx]	linha 3 e 4	✅	Para verificar a estimativa final  
+🔹 This represents the estimated channel response for each RE (Resource Element).
+📊 2. What to export to CSV and why
+🔎 Useful data:
+Source field Useful for CSV? Reason
+pilot[i] line 1 ✅ To confirm consistency with rxF
+rxF[i] line 2 ✅ To observe channel impact
+aarx line 2 ✅ To separate channels from different antennas
+dl_ch[idx] lines 3 and 4 ✅ To verify the final estimate

@@ -1,55 +1,55 @@
-✅ 1. Significado dos campos nos logs do PDCCH
-A) Pilotos brutos:
+✅ 1. Meaning of the fields in the PDCCH logs
+A) Raw pilots:
 
 LOG_I(PHY, "[PDCCH-DMRS pilot] [%d] = (%d, %d)\n", i, ((c16_t*)pilot)[i].r, ((c16_t*)pilot)[i].i);
 
-    i: índice do piloto (dentro do vetor de pilotos)
+i: pilot index (within the pilot array)
 
-    (%d, %d): valores reais e imaginários do piloto (normalmente QPSK com ±23170)
+(%d, %d): real and imaginary pilot values ​​(typically QPSK with ±23170)
 
-B) Estimativas com multiplicação (estimação de canal ch):
+B) Estimates with multiplication (ch channel estimation):
 
 LOG_I(PHY, "[PDCCH] ch 0 %d\n", ((int32_t)pil[0]*rxF[0] - (int32_t)pil[1]*rxF[1]));
 
-    Apenas parte real da estimativa do canal (Re[ch]), calculada diretamente
+Only the real part of the channel estimate (Re[ch]), calculated directly.
 
-    Versão mais completa aparece a seguir.
+A more complete version appears below.
 
-C) Piloto + amostra + resultado da estimação
+C) Pilot + sample + estimation result
 
-LOG_I(PHY, "[PDCCH] pilot 0 : rxF - > (%d,%d) addr %p  ch -> (%d,%d), pil -> (%d,%d)\n", rxF[0], rxF[1], &rxF[0], ch[0], ch[1], pil[0], pil[1]);
+LOG_I(PHY, "[PDCCH] pilot 0 : rxF -> (%d,%d) addr %p ch -> (%d,%d), pil -> (%d,%d)\n", rxF[0], rxF[1], &rxF[0], ch[0], ch[1], pil[0], pil[1]);
 
-    rxF: amostra recebida na subportadora (I/Q)
+rxF: received sample on subcarrier (I/Q)
 
-    addr: endereço (podes ignorar)
+addr: address (you can ignore)
 
-    ch: estimativa de canal (resultado da multiplicação complexa pilot*rxF)
+ch: channel estimate (result of complex multiplication pilot*rxF)
 
-    pil: valor do piloto nessa RE (subportadora)
+pil: pilot value on this RE (subcarrier)
 
-Repetido para os outros dois:
+Repeated for the other two:
 
-LOG_I(PHY, "[PDCCH] pilot 1 : rxF - > (%d,%d) ch -> (%d,%d), pil -> (%d,%d)\n", ...);
-LOG_I(PHY, "[PDCCH] pilot 2 : rxF - > (%d,%d) ch -> (%d,%d), pil -> (%d,%d)\n", ...);
+LOG_I(PHY, "[PDCCH] pilot 1 : rxF -> (%d,%d) ch -> (%d,%d), pil -> (%d,%d)\n", ...);
+LOG_I(PHY, "[PDCCH] pilot 2 : rxF -> (%d,%d) ch -> (%d,%d), pil -> (%d,%d)\n", ...);
 
-D) Dentro de loop:
+D) Inside the loop:
 
-LOG_I(PHY, "[PDCCH] pilot %u : rxF - > (%d,%d) ch -> (%d,%d), pil -> (%d,%d)\n", pilot_cnt, ...);
+LOG_I(PHY, "[PDCCH] pilot %u : rxF -> (%d,%d) ch -> (%d,%d), pil -> (%d,%d)\n", pilot_cnt, ...);
 
-    pilot_cnt: índice absoluto dentro do loop de 3xN pilots
+pilot_cnt: absolute index inside the 3xN pilot loop
 
-    Os restantes campos iguais.
+All other fields are the same.
 
-E) Última forma:
+E) Last form:
 
 LOG_I(PHY, "[PDCCH] pilot[%u] = (%d, %d)\trxF[%d] = (%d, %d)\n", pilot_cnt, pil[0], pil[1], k+1, rxF[0], rxF[1]);
 
-    Forma mais direta, sem estimativa de canal ch.
+Most direct form, without ch channel estimation.
 
-    Apenas piloto, rxF e subportadora k+1.
+Only pilot, rxF, and k+1 subcarrier.
 
-📄 CSV sugerido para PDCCH
+📄 Suggested CSV for PDCCH
 
 idx,rxF_r,rxF_i,ch_r,ch_i,pilot_r,pilot_i,k
 
-Se não houver k nos logs diretamente, podemos ignorar ou estimar com base no avanço de 4 subportadoras por RE (padrão NR para DMRS em PDCCH).
+If k is not directly present in the logs, we can ignore it or estimate it based on advancing 4 subcarriers per RE (NR standard for DMRS on PDCCH).
