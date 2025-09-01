@@ -1,40 +1,76 @@
 import pandas as pd
-import os 
+import glob
+import os
+import numpy as np
 
-# === CONFIGURAÇÃO ===
-base_dir_input = os.path.join("mac-throughput" ,"clean-files-ul", "aggr")
-CSV_METRICAS = "mac_throughput_log.csv"  # <-- Substituir pelo caminho correto
-
-RNTI_TO_LOGICAL_UE = {
-    2: 0,
-    3: 0,
-    5: 1,
-    8: 1,
-    10: 1,
+RNTI_TO_LOGICAL_UE_2 = {
+                 30040:  42234, 
 }
 
-# === PROCESSAMENTO ===
+RNTI_TO_LOGICAL_UE_1 = {
+        30040:  42234,
+        39999: 50104,
+        19074: 11372,
+        35620: 73211,
+        41045: 12586,
+}
 
-# Lê o CSV com as métricas da camada MAC
-df = pd.read_csv(base_dir_input + CSV_METRICAS)
 
-# Mapeia cada RNTI para o UE lógico correspondente
-df['logical_ue'] = df['UE_ID'].map(RNTI_TO_LOGICAL_UE)
 
-# Remove entradas sem mapeamento
-df = df.dropna(subset=['logical_ue'])
+RNTI_TO_LOGICAL_UE = {
+                 30040: 42234, 
+                 39999: 50104, 
+                 19074: 11372, 
+                 33930: 52644,
+                 55955: 2379, 
+                 7281: 53987,
+                 5474: 5342, 
+                 57717: 24556,
+                 35620: 73211, 
+                 41045: 12586
+}
 
-# Garante que o tipo é inteiro
-df['logical_ue'] = df['logical_ue'].astype(int)
+def analysis_per_mean(scenario, rep):
+    base_input_dir = os.path.join("mac-throughput-latency", "clean-files-ul", scenario, rep)
+    base_output_dir = os.path.join("mac-throughput-latency", "clean-files-ul", "aggr")
 
-# Agrupa por tempo e UE lógico, somando throughput
-df_agg = df.groupby(['time_ms', 'logical_ue']).agg(
-    total_throughput_mbps=('throughput_mbps', 'sum'),
-    num_rntis_ativos=('UE_ID', 'count')
-).reset_index()
+    # Read all csv files in the directory
+    files = sorted(glob.glob(base_input_dir + "/*.csv"))
+    reps = []
 
-# Mostra os resultados
-print(df_agg)
+    for f in files:
+        df = pd.read_csv(f)
+        reps.append(df)
+    df_total = pd.concat(reps)
 
-# Exporta para CSV se quiseres guardar
-df_agg.to_csv(base_dir_input + "throughput_aggregado_por_ue_logico.csv", index=False)
+    # Bin size de tempo (100 ms)
+    bin_size = 100
+    df_total['Time_ms'] = pd.to_numeric(df_total['Time_ms'], errors='coerce')
+    df_total = df_total.replace([np.inf, -np.inf], np.nan)
+    df_total = df_total.dropna(subset=['Time_ms'])
+    df_total['Time_ms'] = (df_total['Time_ms'] / bin_size).round() * bin_size
+    df_total['Time_ms'] = df_total['Time_ms'].astype(int)
+
+
+    # map rnti
+    df_total['logical_ue'] = df_total['UE_ID'].map(RNTI_TO_LOGICAL_UE)
+
+    # remove entries without mapping
+    df_total = df_total.dropna(subset=['logical_ue'])
+    df_total['logical_ue'] = df_total['logical_ue'].astype(int)
+
+    # group by time bin and logical ue and calculate mean and std throughput
+    agg = df_total.groupby(['Time_ms', 'logical_ue']).agg(
+        Mean_Throughput=('Throughput_Mbps', 'sum'),
+        Std_Throughput=('Throughput_Mbps', 'std'),
+    ).reset_index()
+    agg = agg[['Time_ms', 'logical_ue', 'Mean_Throughput', 'Std_Throughput']]
+
+    out_file = os.path.join(base_output_dir, f"agg-{scenario}-{rep}.csv")
+    agg.to_csv(out_file, index=False)
+    print(f"New file stored: {out_file}")
+
+
+#analysis_per_mean("cf", "1")
+#analysis_per_mean("cf", "5")
+analysis_per_mean("cf", "10")
